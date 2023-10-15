@@ -1,1 +1,1 @@
-# SPM
+Software Projekt Management
