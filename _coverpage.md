@@ -8,5 +8,4 @@
 	Timo Haverich, Jan-Ole Löffler, Tim Röckemann, Lewin ..., Kevin Zuber, Tobias ...
 </div>
 
-[Dokumentation](index)
-[Präsentation](src/praesentation/praesentation.html)
+[Start](index)
