@@ -318,5 +318,6 @@ Ist ein empirisches Vorgehen mit
 **Scrum und/oder Kanban?**
 __Scrum__ führt eine Limitierung der Zeit ein, in der Arbeit geleistet werden soll und nutzt dazu Sprints, die eine festliche zeitliche Dauer haben. Die anstehende Arbeit wird für jeden Sprint, welcher maximal vier Wochen dauert, geplant. Das Ziel ist, dass das Team die Arbeit in der gewünschten Qualität fertigstellt.
 __Kanban__ dagegen kennt keine festen Sprint oder Iterationen. Es begrenzt dafür die Menge an Arbeit, die sich im System befinden darf.
+__Scrum__ und __Kanban__ können auch gemischt verwendet werden. Genau so können agile Elemente in klassischen Ansätzen verwendet werden (Hybrides Projektmanagement)
 
 ![](../media/KanbanVsScrum.png ':size=800')
