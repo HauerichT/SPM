@@ -48,7 +48,7 @@ class: center, middle
 * Ein *Softwaresystem* ist ein System, dessen Bestandteile und Elemente aus Software bestehen ("innere" Sicht des Softwareentwicklers)
 * Ein *Softwareprodukt* ist ein für einen Auftraggeber erstelltes Softwaresystem ("äußere" Sicht)
 
-![:scale 50%](media/produktvssystem.jpg)
+![:scale 50%](informationen/media/produktvssystem.jpg)
 
 ---
 ## Arten von Software
