@@ -1,6 +1,7 @@
 # Informationen Präsentation
 
-# Kapitel 18 & 19
+## Kapitel 18 & 19
+
 Seiten: 211 - 268
 
 ### Kanban - Überblick
@@ -67,7 +68,7 @@ Seiten: 211 - 268
 - Erklärung der Präsentationsthemen anhand eines Kanban-Boards visualisieren
 - Verknüpfung der Werte mit Praktiken oder Grundprinzipien
 
-#### **Transparenz** (Wert) & **"Macht Arbeit sichtbar"** (Praktik)
+#### Transparenz (Wert) & "Macht Arbeit sichtbar" (Praktik)
 - Visualisierung
 - Whiteboards
 - Festlegen der Prozesschritte, Erste?, Letzte?, Übergänge?
@@ -86,7 +87,7 @@ Seiten: 211 - 268
 - Backlog aufteilen, um zu wissen woher eine Aufgabe kommt
 - Aufräumen des Boards
 
-#### **Balance** (Wert) & **"Limitiere den Work in Progress"** (Praktik)
+#### Balance (Wert) & "Limitiere den Work in Progress" (Praktik)
 - Wie viel Parallele Verarbeitung?
 - Immer mehr Themen rutschen in die Vorstellung und werden nicht abgearbeitet → es geht ums fertig werden und nicht ums Anfangen von Aufgaben
 - Spalten limitieren, damit der Flaschenhals der Bearbeitung gemeinsam angegangen werden kann
@@ -101,14 +102,14 @@ Seiten: 211 - 268
 - Probleme und Engpässe werden sichtbar
 - Multitasking wird beschränkt
 
-#### **Kooperation** (Wert) & **"Führe gemeinschaftlich Verbesserung durch"** (Praktik)
+#### Kooperation (Wert) & "Führe gemeinschaftlich Verbesserung durch" (Praktik)
 - Innerhalb des Teams
 - Auch über die Teamgrenzen hinweg
 - Betrifft interne oder externe Kunden
 - Aus zwei Teams mit zwei Boards ein Team mit einem Board machen
 - Mehr Schritte darstellen und Zwischenschritte werden sichtbar
 
-#### **Kundenfokus** (Wert) & **"Manage den Arbeitsfluss"** (Praktik - Teil1)
+#### Kundenfokus (Wert) & "Manage den Arbeitsfluss" (Praktik - Teil1)
 - Wissen Sie, was Sie liefern an wen und warum → Mike Burrows
 - Wer sind Kunden
 - Was sind Bedürfnisse?
@@ -122,7 +123,7 @@ Seiten: 211 - 268
 - Die Aufnahme ist ein Commitment, vielleicht
 - Kundenfokus → bringt Innovation
 
-#### **Arbeitsfluss** & **"Manage Flow im System"** (Praktik - Teil2)
+#### Arbeitsfluss & "Manage Flow im System" (Praktik - Teil2)
 - Beginn beim Ist-Zustand
 - Verbesserung aufgrund der gewonnenen Erfahrungen und Einsichten
 - Kanban ist nicht statisch
@@ -148,7 +149,7 @@ Seiten: 211 - 268
   * Festes Lieferdatum
   * Unbestimmbare Kosten
 
-#### **Leadership** (Wert) & **"Fördere Leadership auf allen Ebenen der Organisation"** (Grundprinzip)
+#### Leadership (Wert) & "Fördere Leadership auf allen Ebenen der Organisation" (Grundprinzip)
 - Fähigkeit zu motivieren und zu Überzeugen
 - Leadership ist ungleich Management
 - Leadership ist Macht durch Akzeptanz, Identifikation und Motivation
@@ -166,7 +167,7 @@ Retrospektive als Basis für Verbesserungen (Gemeinsam besser werden):
 ![](media/Retrospektive.PNG)
 
 
-### **Verständnis** (Wert) & **"Starte mit dem, was du jetzt machst"** (Grundprinzip)
+#### Verständnis (Wert) & "Starte mit dem, was du jetzt machst" (Grundprinzip)
 - Der ist-Zustand bildet den Anfang
 - Keinen Wunschzustand darstellen
 - Verständnis für Stärken und Schwächen im IST
@@ -176,33 +177,77 @@ Retrospektive als Basis für Verbesserungen (Gemeinsam besser werden):
 - Wie sieht die Richtung der Veränderung aus?
 - In dem Wissen was erreicht werden soll und welchem zweck es dient, liegt die Macht
 
-### **Vereinbarung** (Wert) & **"Verfolge inkrementelle und evolutionäre Veränderung"** (Grundprinzip)
+#### Vereinbarung (Wert) & "Verfolge inkrementelle und evolutionäre Veränderung" (Grundprinzip)
 - Verfolgen! Nicht anwenden
 - Ist ein dauernder Prozess und keine Einmalaktion
 - Geht immer vom Ist-zustand aus
-- Neuer zustand kann zu IST werden
-- Erproben, Erfahren -> daraus schlüsse ziehen
+- Neuer Zustand kann zu IST werden
+- Erproben, Erfahren → daraus schlüsse ziehen
 - Ergebnisoffen
 - Nach jedem Schritt neues Verständnis aufbauen
 - ANPASSUNGSFÄHIGKEIT und die Fähigkeit zur Veränderung
 - Kleine Schritte um bleibende Schäden zu vermeiden
 
-### **Respekt** (Wert)
+#### Respekt (Wert)
 - Laufend von Veränderungen gesprochen
 - Der Ausgangspunkt bleibt jedoch der IST-Zustand
-- Zeichen von Respekt an der derzeitigen Situation zu arbeiten und diese weiterzuentwickeln anstatt alles über Board zu werfen
+- Zeichen von Respekt an der derzeitigen Situation zu arbeiten und diese weiterzuentwickeln, anstatt alles über Board zu werfen
 - Respekt heißt auch sich auf Augenhöhe zu begegnen, bei gemeinsamer Arbeit, Diskussionen und Veränderungen
 
+## Kapitel 21
 
+Seiten: 279-309
 
+### Die Gestaltung von Meetings und Workshops
+Lernziele:
+- Grundlagen für die Moderation von Workshops und Besprechungen
+- Repertoire an Gestaltungsmöglichkeiten und Problemlösungstools
+- zielorientierter Ablauf von Workshops und Meetings
 
+#### Rollen
+- klare Rollen und Verantwortlichkeiten
 
+![](media/Team.PNG)
 
+- Teilnehmer:
+  * Qualität des Ergebnisses
+  * Wissensträger
+- Moderator:
+  * plant und steuert
+  * hilft der Gruppe selbständig zu arbeiten
+  * konzentriert sich auf den Weg zum Ziel und auf die Gruppenprozesse
+  * kein inhaltlicher Eingriff, ohne Meinung, ohne Wertung
+  * ACHTUNG!: Doppelrolle → Teilnehmer und Projektleiter
 
+![](media/Doppelrolle.PNG)
 
+- Werkzeuge des Moderators:
+  * Fragen stellen
+    * PAKKO-Fragen
+    * ![](media/Pakko.PNG)
+    * Paraphrasieren
+    * Visualisieren
+      * Mindmap
+      * ![](media/Mindmap.PNG)
+    * Zusammenfassen
 
+- Phasen der Moderation
+  * ähnlich zu den Phasen der Retrospektive
+  * Drehbuch zum geplanten Ablauf
+  * Einstieg → Highlight des Tages
+  * Themen sammeln → Clustern, Mindmap
+  * Thema auswählen
+  * Thema bearbeiten → Mindmap, Ishikawa-Diagramm, Flowchart
+  * ![](media/Ishikawa.PNG)
+  * ![](media/Flowchart.PNG)
+  * Maßnahmen planen → Wer? Bis wann? Mit wem?
+  * Abschluss → Feedback? Workshop sinnvoll?
 
+![](media/Moderation.PNG)
 
+#### Regeln, Tipps und praktische Hinweise
+
+![](media/purpose.PNG)
 
 
 
