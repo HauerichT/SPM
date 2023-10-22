@@ -31,7 +31,8 @@ Seiten: 211 - 268
 - Feedback und kontinuierliche Verbesserung
 
 
-### Kanban - in der Produktion / In der Wissenschaft
+
+### Kanban - in der Produktion / in der Wissenschaft
 
 - im TPS (Toyota Production System) eingesetzt
 - Nachfrage und Kapazität steuern
@@ -60,10 +61,12 @@ Seiten: 211 - 268
 ![](media/Kanban_Praktiken.PNG)
 
 
+### Die Werte, Grundprinzipien und Praktiken von Kanban
+
 ![](media/Kanban_Werte.PNG)
 ![](media/Kanban_Grundprinzipien.PNG)
 
-- Erklärung der Präsentationsthemen anhand eines Kanban-Boards visualisieren
+- Präsentationsthemen anhand eines Kanban-Boards visualisieren
 - Verknüpfung der Werte mit Praktiken oder Grundprinzipien
 
 #### Transparenz (Wert) & "Macht Arbeit sichtbar" (Praktik)
@@ -227,6 +230,28 @@ Lernziele:
 - Visualisieren
       * Mindmap
       * ![](media/Mindmap.PNG)
+- Zusammenfassen
+
+#### Phasen der Moderation
+- ähnlich zu den Phasen der Retrospektive
+- Drehbuch zum geplanten Ablauf
+- Einstieg → Highlight des Tages
+- Themen sammeln → Clustern, Mindmap
+- Thema auswählen
+- Thema bearbeiten → Mindmap, Ishikawa-Diagramm, Flowchart
+- ![](media/Ishikawa.PNG)
+- ![](media/Flowchart.PNG)
+- Maßnahmen planen → Wer? Bis wann? Mit wem?
+- Abschluss → Feedback? Workshop sinnvoll?
+
+#### Werkzeuge des Moderators:
+- Fragen stellen
+  * PAKKO-Fragen
+  * ![](media/Pakko.PNG)
+- Paraphrasieren
+- Visualisieren
+  * Mindmap
+  * ![](media/Mindmap.PNG)
 - Zusammenfassen
 
 #### Phasen der Moderation
