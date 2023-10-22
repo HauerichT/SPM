@@ -67,7 +67,7 @@ Der Begriff __Methode__ umfasst zwei Aspekte:
 ### Projektlebenszyklus
 > Der Projektlebenszyklus ist die Abfolge der Phasen, die ein Projekt vom Aufsetzen (Initiieren) bis zum Abschluss durchläuft.
 
-**Phase des Projektlebenszyklus:**
+**Phasen des Projektlebenszyklus:**
 * kann die verschiedenen Phasen darstellen, die ein Projekt durchläuft
 * Erarbeitung des Projektergebnisses läuft in Phasen ab (können unterschiedlich benannt werden)
 * Allgemeine Ausdrücke für Phasen:

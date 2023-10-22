@@ -1,6 +1,6 @@
 class: center, middle
 
-## [Software Engineering](../../praesentationen.html)
+## [Software Projektmanagement](../../praesentationen.html)
 
 #### Kapitel 1
 
@@ -9,214 +9,181 @@ class: center, middle
 Max Mustermann
 
 ---
-### Inhalte und Lernziele der Lehrveranstaltung
+### Inhalt
+***
 
-* Die Relevanz der Softwaretechnik kennen
-* Die Kernthemen der Phasen im Softwareentwicklungszyklus beherrschen
-* Architekturmuster und Entwurfsmuster anwenden können
-* Workflows der DevOps-basierten Softwareentwicklung beherrschen
-* Verfahren der Softwareprüfung und Sicherheit kennen
-* Verteilte Softwaresysteme entwerfen können
-* Unterschiedliche Vorgehensmodelle (insbesondere agile) und deren Phasen beschreiben und anwenden
-* UML-Diagrammtypen modellieren können
-* Qualitätsmerkmale von Software kennen und beschreiben können
+* Begriffsklärungen Projektmanagement
+* Themengruppen Projektmanagement
+* Projektlebenszyklus
+* Klassisches (Plangetriebenes) Projektmanagement
+* Agiles Projektmanagement
 
 ---
-### Lernziele des ersten Kapitels
+### Begriffsklärungen
+***
 
-* Verstehen, warum Software schwer zu entwickeln ist
-* Erklären können, warum Softwaretechnik notwendig ist
-* Verstehen, was Software ist
-* Unterschiedliche Arten von Software kennen
-* Notwendige Kompetenzen von Software-Ingenieuren kennen
-* Verstehen, dass zur Softwareentwicklung mehr gehört als die reine Programmierung
+**Projekt:**
+* zeitlich begrenztes Vorhaben (definierter Anfang und Ende)
+* Erzeugung eines einmaligen Ergebnisses
+* ist kein Prozess mit definierten Auslöser und Ergebnis
 
----
-class: center, middle
+![:scale 50%](media/Projekt.png)
 
-## Software
-
----
-### Was ist Software?
-
-* Programme, zugehörige Daten und Dokumentationen, die es zusammengefasst erlauben, mit Hilfe eines Computers Aufgaben zu erledigen.
-* Software ist demnach ein umfassenderer Begriff als "Programm" oder "Code", weil alle Elemente inbegriffen sind, die für den Betrieb notwendig sind. z.B. Datenbankskripte, Dokumentation, Betriebshandbücher, Build-Skripte, Deployment-Skripte etc.
+**Projektmanagement:**
+* umfasst Führungsaufgaben, -organisation, -techniken, -mittel zur erfolgreichen Abwicklung eines Projektes
 
 ---
-### Softwaresystem vs. Softwareprodukt
+### Begriffsklärungen
+***
 
-* Ein *Softwaresystem* ist ein System, dessen Bestandteile und Elemente aus Software bestehen ("innere" Sicht des Softwareentwicklers)
-* Ein *Softwareprodukt* ist ein für einen Auftraggeber erstelltes Softwaresystem ("äußere" Sicht)
+**"Klassisches" Projektmanagement:**
+* monolithischer Ansatz
+* ist plangetrieben
+* Scope führend: 
+  1. Inhalt und Umfang werden definiert
+  2. Zeit und Finanzbedarf werden ermittelt
 
-![:scale 50%](media/produktvssystem.jpg)
-
----
-## Arten von Software
-
-* Systemsoftware
-  * Betriebssystem
-* Anwendungssoftware
-  * Büroanwendungen (Textverarbeitung etc.)
-* Spiele
-  * Minecraft, Fortnite
-* Eingebettete Systeme
-  * Steuerungssoftware für Geräte
-* Echtzeitsysteme
-  * Flugüberwachung, Kraftwerkssteuerung, etc.
-* Informationssysteme
-  * Datenbankgestützte Verwaltung von Information; oft webbasiert
-
-#### Herkunft / Herstellung
-
-* Standardsoftware
-  * Anpassbare Software (z.B. SAP) für vorher nicht bekannte Kunden
-* Individualsoftware
-  * Speziell auf die Bedürfnisse eines Kunden/Auftraggeber entwickelte Software (daher zeitaufwändig und teure Entwicklung) zur Unterstützung spezieller Geschäftsprozesse 
+**"Agiles" Projektmanagement:**
+* iterativ-inkrementeller Ansatz
+* "value", also Mehrwert/Nutzen, steht im Vordergrund
+* "value" führend:
+  1. Zeit und Budget werden festgelegt
+  2. Inhalt und Umfang werden ermittelt
+* Scrum und Kanban wichtige Vertreter
 
 ---
-## Eigenschaften von Software
+### Begriffsklärungen
+***
 
-* Software wird in Teams hergestellt und in mehreren Versionen ausgeliefert
-* Software kann man nicht anfassen: Software ist immateriell
-* Entwicklungsfortschritt ist daher nicht objektiv messbar
-* Anders als materielle Produkte verschleißt Software nicht, altert aber dennoch, denn sowohl Anforderungen an die Software als auch die Umgebung, in der Software eingesetzt wird, ändern sich
-* Software muss an diese Änderungen angepasst werden
-
----
-class: center, middle
-
-## Software Projekte
+**Projektmanager/Projektleiter:**
+* mit der Führung des Teams betraute Person
+* für Erreichung der Ziele des Projektes verantwortlich
+* Aufgaben:
+  * Mitgliedschaft und Rollen unter Führung des Projektleiters
+  * Verantwortung für das Team und das Ergebnis
+  * Wissen und Fähigkeiten
 
 ---
-### Probleme in Software-Projekten
 
+### Themengruppen Projektmanagement
+***
 
+**Themengruppen:** Themenbereiche, die spezifisches Wissen erfordern und durch Prozesse, Ergebnisse sowie verwendete Werkzeuge und Methoden charakterisiert werden
 
-* Unvollständige, schlechte definierte, oft geänderte Anforderungen
-* Unrealistische, unklare oder unausgesprochene Zielvorstellungen
-* Hohe Komplexität und lange Lebensdauer dere Software
-* Verwendung unausgereifter Technologie
-* Schlechtes Projektmanagement
-* Zu wenig Ressourcen bzw. falsche Schätzung benötigter Ressourcen
-* Unrealistische Zeit- und Kostenpläne und nicht gemanagte Risiken
-* Fehlende Planung und unklare Verantwortlichkeiten
-* Unfähigkeit, die Projektkomplexität in den Griff zu kriegen
-* Schlechte Kommunikation zwischen Kunden, Entwicklern und Benutzern und nicht eingebundene  Anwender
-* "Politische" Gründe der Beteiligten
-* Kommerzieller und zeitlicher Druck
-* Qualitätsmängel bei extern vergebenen Aufgaben
-* Schlechte Softwarequalität durch nachlässige Entwicklungspraktiken
-* Unvollständige Dokumentation
-* Vielzahl an anderen Dokumenten neben dem Source-Code
-* Pflege von Altsystemen ist schwierig
-* Softwaresyteme werden mit mehr als einer Person entwickelt und existieren in mehreren Versionen
-
-#### Software Engineering sucht nach Lösungen
+**Themengruppen des Projektmanagements nach ISO 21500:**
+* **Integration:** Vorgehensweise zur ganzheitlichen Projektintegration.
+* **Stakeholder:** Betroffene und Interessenten am Projekt.
+* **Scope:** Projektinhalt und -umfang.
+* **Resource:** Potenzielle Teammitglieder und benötigtes Know-how.
+* **Time:** Dauer der Projektabdeckung.
+* **Cost:** Kosten für Projektabdeckung.
+* **Risk:** Projektbezogene Risiken (Chancen und Bedrohungen).
+* **Quality:** Zu beachtende Qualitätsstandards und Prüfverfahren.
+* **Procurement:** Notwendige Beschaffungen für das Projekt.
+* **Communication:** Kommunikationsmethoden und -rhythmus im Team.
 
 ---
-class: center, middle
 
-## Software Engineering
+### Projektlebenszyklus
+***
 
----
-## Ziele des Software Engineerings
+Der Projektlebenszyklus ist die __Abfolge der Phasen__, die ein Projekt vom __Aufsetzen__ (Initiieren) bis zum __Abschluss__ durchläuft.
 
-Software Engineering (auch Softwaretechnik oder Softwaretechnologie) ist die systematische Verwendung von Prinzipien, Methoden und Werkzeugen für die arbeitsteilige, ingenieurmäßige, strukturierte Entwicklung und kosten- und zeiteffiziente Bereitstellung und Betrieb von komplexen Softwaresystemen mit hoher Qualität
+* Erarbeitung des Projektergebnisses läuft in Phasen ab
+* Phasen je nach Branche oder Umfeld unterschiedlich
+* Allgemeine Ausdrücke für Phasen:
+    * Analyse
+    * Design
+    * Herstellung/Umsetzung
+    * Test
+    * Lieferung
 
-* **Entwicklungsaspekt**
-  * Schnelle und effiziente Entwicklung des Softwareprodukts durch Verwendung von Softwarewerkzeugen zur Automatisierung von wiederkehrenden Aufgaben
-* **Qualitätssicherungsaspekt**
-  * Stellt die Qualität in den Mittelpunkt (Kundenzufriedenheit, Sicherheit) und fordert die Einhaltung der geforderten Qualitätsmerkmale
-* **Managementaspekt**
-  * Strukturierte und kontrollierte Projektabwicklung basierend auf (agilen) Vorgehensmodellen
-* **Wartungsaspekt**
-  * Sicherstellung der Wartbarkeit, Erweiterbarkeit, Wiederverwendbarkeit und der Beherrschung der Komplexität durch Verwendung von Entwurfsprinzipien
 
----
-### Themengebiete des Software Engineerings
-
-<div class="mermaid">
-mindmap
-  Informatik
-    Theoretische Informatik
-    Technische Informatik
-    Praktische Informatik
-      Softwaretechnik
-        Modellierungssprachen
-        Entwicklungsprozesse
-        Werkzeuge
-        Architekturen
-</div>
-
+* __Iteration:__ die in Schleifen erfolgende Ausarbeitung eines Ergebnisses 
+* __Inkrement:__ ein Ergebnis, das immer weiter ergänzt wird
 
 ---
-class: center, middle
 
-## Software Ingenieure
+### Projektlebenszyklus
+***
 
----
-## Rahmenbedingungen
-
-* Den Programmierer, der auf der Basis seines einmal erworbenen Wissens
-Anforderungen als Einzelkämpfer umsetzt, gibt es nicht.
-* Softwareentwicklung ist eine Teamanstrengung.
-* Software entsteht im Dialog mit dem Kunden, den Anwendern, den Kollegen, den Vorgesetzten, den Teammitgliedern.
-
-#### Software Ingenieure
-
-* können mehr als nur programmieren und sind demnach keine reinen Entwickler oder Programmierer von Software
-* arbeiten in Software Projekten methodisch und strukturiert mit anderen Beteiligten zusammen, um Softwareprodukte effizient in Teamarbeit zu erstellen
-* arbeiten in der IT-Abteilung eines Unternehmens in der Software-Entwicklung oder in einem IT-Beratungsunternehmen oder als (Teil)-Projektleiter 
-
-
+**Phasenmodelle:**
+* Project Management Institute beschreibt vier verschiedene Phasenmodelle:
+    * Predictive life cylce ("klassischer" Ansatz)
+    * Iterativer Lebenszyklus
+    * Inkrementeller Lebenszyklus
+    * Agiler Lebenszyklus (inkrementell und iterativ)
 
 ---
-### Kompetenzen von Software Ingenieuren
 
-**Hard skills**
+### Projektlebenszyklus
+***
 
-ist spezielles Fachwissen (z.B. Programmierung), das durch Studium oder Ausbildung vermittelt und objektiv sichtbar gemacht werden kann
+**Vorgehensweisen:**
+* __Plangetriebenes Vorgehen:__ größere Iterationen, mit einer Lieferung ganz am Ende
+* __Agiles Vorgehen:__ kleine Iterationen, mit jeweils kleineren Ergebnissen
 
-**Soft skills**
-
-sind "weiche" Fähigkeiten, also außerfachliche bzw. fachübergreifende "Schlüssel"-Kompetenzen, die schwieriger zu erlernen und zu überprüfen sind, wie z.B.
-
-* Kommunikationsfähigkeit (communication skills)
-* Zwischenmenschliche Kompetenzen (interpersonal skills)
-* Analytische Fähigkeiten (analytical and problem-solving skills)
-* Teamfähigkeit (team player)
-* Organisationskompetenz (organizational skills)
-* Lernfahigkeit (fast learner)
-* Selbstständigkeit (ability to work independently)
-* Kreativität (innovative and creative)
-* Flexibilität (open and adaptable to changes) 
+![:scale 70%](media/Agiles_Projektmanagement_im_Berufsalltag_Lebenszyklus.png)
 
 ---
-### Der idealtypische Software-Ingenieur
 
-* ist motiviert, fleißig, freundlich, hilfsbereit, eigeninitiativ, neugierig, eigenständig, respektvoll und teamfähig
-* besitzt logisches und abstraktes Denkvermögen
-* setzt sich kreativ für eine Sache ein und ist offen für Veränderungen und lernt gerne eigenverantwortlich Neues kennen
-* beherrscht die deutsche Rechtschreibung
-* ist kommunikationsfähig und kommunikationswillig und kann komplizierte Sachverhalte komprimiert und verständlich darstellen
+### Projektlebenszyklus
+***
 
-**Hinweise:**
+**Anwendung der Lebenszyklen:**
 
-* Diese Kompetenzen sind erlernbar bzw. willentlich beeinflussbar
-* Niemand erwartet, dass Sie alles wissen oder perfekt beherrschen, denn Sie sind ja gerade hier, um dazu lernen.
-* Haben Sie keine Angst, Fehler zu machen.
-* Schauen Sie nicht so sehr auf die Noten, sondern versuchen Sie, die Sachverhalte zu verstehen und entwickeln Sie sich persönlich, menschlich, methodisch und organisatorisch weiter
-* Lernen Sie keine Technologien, sondern Konzepte
-* Finden Sie Ihr eigenes Tempo, indem Sie Sie auf Ihre eigene Fähigkeiten achten und nicht auf die Fähigkeiten Anderen
-* In der IT-Branche ist ein lebenslanges Lernen erforderlich
-* Studieren bedeutet: Lernen zu lernen.
+* **Plangetriebenes Vorgehen:**
+  * Ergebnis genau spezifiziert
+  * Erfahrung mit ähnlichen Projekten
+  * wenige Änderungen
+  * Feedback weniger relevant
+  * weniger komplexe Sachverhalte
+  * ohne Zwischenlieferungen
+
+* **Agiles Vorgehen:**
+  * Anforderungen nicht klar
+  * keine Erfahrung mit ähnlichen Projekten
+  * komplexe Sachverhalte
+  * Feedback und Lernen zentral
+  * Änderungen basierend auf dem Feedback
+  * Zwischenlieferungen
 
 ---
-## Zusammenfassung
 
-* Softwareprodukte bestehen aus Programmen, Dokumentation und weiteren Artefakten
-* Software Engineering ist eine Ingenieur-Disziplin, die sich mit allen Aspekten der Softwareentwicklung und Softwarewartung beschäftigt
-* Ziel des Software Engineerings ist die Erreichung einer hohen Softwarequalität und die Minimierung der Kosten
-* Software Engineering geht über die reine Programmierung hinaus und befasst sich mit Konzepten, Methoden und Werkzeugen für die professionelle Entwicklung von wartbarer Software
-* Software Ingenieure arbeiten in Teams in Software Projekten methodisch und strukturiert und kommunizieren mit Kunden und Teammitgliedern
+### Projektlebenszyklus
+***
 
+**Anwendung der Lebenszyklen:**
+
+![:scale 100%](media/Agiles_Projektmanagement_im_Berufsalltag_Lebenszyklus2.png)
+
+---
+
+### Klassisches (Plangetriebenes) Projektmanagement
+***
+
+**Schritte der klassichen Planung eines Projektes:**
+* Projektteam zusammenstellen
+* Scope definieren
+  * Inhalt, Umfang
+* benötigte Ressourcen schätzen
+  * Time, Cost 
+* Planung in weiteren Themengruppen
+* Projektmanagementplan
+* Projektplan
+  * Baselines
+* Change Requests
+  * spätere Änderungen der Planung
+
+---
+
+### Agiles Projektmanagement
+***
+
+**Begriffe:**
+* Inkrement: Ergebnis, das immer weiter ergänzt wird.
+* Product Backlog: Liste der anstehenden Arbeiten
+* Review: Kritische Besprechung mit Festlegung der nächsten Aufgaben
+* Retrospektive: wichtiges Meeting, bei dem Zusammenarbeit im Team, seine Prozesse usw. diskutiert werden
+* Stakeholder: tatsächlich Betroffene von oder Beteiligte an Projekten
+* Task Board/Kanban Board: Whiteboard oder Pinnwand mit vertikalen Spalten, auf der Arbeit und Fortschritt dargestellt wird
