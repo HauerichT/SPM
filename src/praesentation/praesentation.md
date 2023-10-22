@@ -1,5 +1,167 @@
 class: center, middle
 
+## Software Projekt Management
+
+#### Kapitel 9 - 11
+
+# Product Backlog, befüllung und priorisierung
+
+---
+### Einführung in das Product Backlog 
+***
+# Product Backlog
+
+- **Liste**
+
+- **Aufgaben (Items)**
+
+- **priorisierung (Hoch - Niedrig)**
+
+- Gut, wenn: sichtbar, transparent, klar, zeigt aktuelle arbeit
+
+--> Product Owner
+
+---
+### Einführung in das Product Backlog
+***
+# Priorität
+
+![:scale 75%](informationen/media/ProductBacklogPrio.PNG)
+
+---
+### Einführung in das Product Backlog
+***
+# Das Product Backlog ist DEEP:
+
+- **Detailed appropriately** --> Items unterschiedlich ausgearbeitet
+
+- **Emergent** --> Backlog nicht statisch, durchgehende entwicklung
+
+- **Estimated** --> schätzung der Items (Wert nach Umsetzung / Komplexität & Aufwand)
+
+- **Prioritized** --> wichtig oben, unwichtig unten
+
+---
+### Einführung in das Product Backlog
+***
+# Product Owner
+
+- **alleinig verantwortlich** für Product Backlog
+
+- entscheidungen müssen respektiert werden
+
+Aufgaben:
+- Einträge **klar** formulieren
+- Einträge **sortieren**
+- wert der Arbeit **optimieren**
+
+**--> Ziele sollen optimal erreicht werden**
+
+**--> verantwortlich für erfolg des Projekts & ROI (Return on Invest)**
+
+---
+### Einführung in das Product Backlog
+***
+# Rollenverteilung
+
+- Product Owner vs. Projektleiter 
+
+- **Empfehlungen**, aber **keine festen Vorgaben**
+
+- Kompetenzen und Verantwortungen --> Projekt Charter
+
+![](informationen/media/ProductOwner.PNG)
+
+---
+class: center, middle 
+
+# Das Product Backlog initial befüllen
+
+### 1. Prune the Product Tree
+
+### 2. Remember the Future
+
+---
+### Das Product Backlog initial befüllen
+***
+# Prune the Product Tree 
+
+Ziel: Produkt in Form bringen (für den Markt "trimmen")
+
+--> Anforderungen und To-Do´s sammeln und strukturieren
+
+![:scale 50%](informationen/media/Prune-the-Product-Tree-Preview.png)
+
+---
+### Das Product Backlog initial befüllen
+***
+# Remember the Future
+
+- Rückblick als wär das Projekt schon fertig
+
+- "was war damals das Erfolgsgeheimnis?"
+
+- zusammen mit Stakeholdern und Kunden
+
+![:scale 90%](informationen/media/RTFsmall.PNG)
+
+---
+class: center, middle
+
+# Priorisieren - Was ist wie wichtig?
+
+### 1. wichtige Aspekte zur Beeinflussung
+
+### 2. Tools zur Priorisierung
+
+---
+### Priorisieren - Was ist wie wichtig?
+***
+# wichtige Aspekte zur Beeinflussung
+
+- Geschäftswert
+
+- Risiko
+
+- bedeutung aus Kundensicht
+
+- Cost of Delay
+
+- Einfluss von Aufwand/Komplexität und Kosten
+
+- fortlaufende Pflegekosten
+
+---
+### Priorisieren - Was ist wie wichtig?
+***
+# Risiko und Wert
+
+![:scale 75%](informationen/media/BeziehungRisikoGeschäftswert.PNG)
+---
+# Quellen 
+
+[1]: Prune the Product tree Bild, https://huddleiq.com/help-en/research-design-templates/, letzter Zugriff 22.10.2023
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+class: center, middle
+
 ## [Software Engineering](../../praesentationen.html)
 
 #### Kapitel 1

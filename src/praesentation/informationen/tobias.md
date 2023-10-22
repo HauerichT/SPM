@@ -8,9 +8,10 @@ Einführung in das Product Backlog - ein Ort für alle Arbeit
 
 Das product Backlog ist eine List die abzuarbeitende aufgaben (Items) beinhaltet. 
 Die List ist von oben (Hoch) nach unten (Niedrig) priorisiert.
-Je höher ein Item, desto detaillierter ist dieses schon ausgearbeitet, weshalb es weniger Platz auf dem product backlog in anspruch nimmt.
-Je niedriger ein Item ist, desto gröber ist die ausarbeitung, weshalb noch viele Ideen oder Möglichkeiten dieses Item umzusetzen, die Item beschreibung in der größe aufblähen.
-Die oben stehenden Items werden in naher Zukunft umgesetzt. Die unten stehenden items spät bis gar nicht. Die wichtigsten Dinge zuerst.
+Je höher ein Item, desto detaillierter ist dieses schon ausgearbeitet, weshalb es weniger Platz auf dem product backlog
+in anspruch nimmt. Je niedriger ein Item ist, desto gröber ist die ausarbeitung, weshalb noch viele Ideen oder
+Möglichkeiten dieses Item umzusetzen, die Item beschreibung in der größe aufblähen. Die oben stehenden Items werden in
+naher Zukunft umgesetzt. Die unten stehenden items spät bis gar nicht. Die wichtigsten Dinge zuerst.
 
 ![](media/ProductBacklogPrio.PNG)
 
@@ -136,7 +137,7 @@ unabhängig sein, damit sich auf die priorisierung nach wert, nutzen etc. fokuss
 
 platzierung der Items auf der Matrix gibt einen Hinweis auf die wichtigkeit der Items.
 
-
+Risiko --> unsicherheit über Eintrittswahrscheinlichkeit und Wirkung (egal ob positiv oder negativ)
 ### Cost of Delay
 Kosten die auf ein organisation zukommen, wenn diese arbeit erst zu einem späteren Zeitpunkt ausgeführt wird.
 Besonders gute frage, wenn andernfalls viele items die gleiche priorisierung zu haben scheinen.
