@@ -7,7 +7,7 @@
     * [Dokumentation Tobias](src/doku/tobias)
     * [Dokumentation Kevin](src/doku/kevin)
 * Präsentation
-    * [Präsentation](src/praesentation/praesentation.html)
+    * <a href="src/praesentation/praesentation.html">Präsentation</a>
     * [Informationen Timo](src/praesentation/informationen/timo.md)
     * [Informationen Ole](src/praesentation/informationen/ole)
     * [Informationen Tim](src/praesentation/informationen/tim)
