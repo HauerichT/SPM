@@ -5,20 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a350f3e4-31b0-46e3-a071-7b34727754da" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/doku/lewin.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/doku/lewin.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/praesentation/informationen/lewin.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/praesentation/informationen/lewin.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/praesentation/praesentation.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/praesentation/praesentation.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "git-widget-placeholder": "lewin",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;git-widget-placeholder&quot;: &quot;lewin&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
+}</component>
   <component name="TaskManager">
     <servers />
   </component>

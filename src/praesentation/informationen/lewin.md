@@ -31,7 +31,7 @@ Seiten: 211 - 268
 - Feedback und kontinuierliche Verbesserung
 
 
-### Kanban - In der Produktion / In der Wissenschaft
+### Kanban - in der Produktion / In der Wissenschaft
 
 - im TPS (Toyota Production System) eingesetzt
 - Nachfrage und Kapazität steuern
@@ -54,13 +54,11 @@ Seiten: 211 - 268
 - keine Aufrechterhaltung des Fokus (switchen der Arbeiten)
 - keine Definition der Prioritäten
 
+### Die Werte, Grundprinzipien und Praktiken von Kanban
 
 **Kanban-Praktiken:**
-
 ![](media/Kanban_Praktiken.PNG)
 
-
-### Die Werte, Grundprinzipien und Praktiken von Kanban
 
 ![](media/Kanban_Werte.PNG)
 ![](media/Kanban_Grundprinzipien.PNG)
@@ -123,7 +121,7 @@ Seiten: 211 - 268
 - Die Aufnahme ist ein Commitment, vielleicht
 - Kundenfokus → bringt Innovation
 
-#### Arbeitsfluss & "Manage Flow im System" (Praktik - Teil2)
+#### Arbeitsfluss (Wert) & "Manage Flow im System" (Praktik - Teil2)
 - Beginn beim Ist-Zustand
 - Verbesserung aufgrund der gewonnenen Erfahrungen und Einsichten
 - Kanban ist nicht statisch
@@ -179,7 +177,7 @@ Retrospektive als Basis für Verbesserungen (Gemeinsam besser werden):
 
 #### Vereinbarung (Wert) & "Verfolge inkrementelle und evolutionäre Veränderung" (Grundprinzip)
 - Verfolgen! Nicht anwenden
-- Ist ein dauernder Prozess und keine Einmalaktion
+- Ist ein dauernder Prozess und keine "Einmal-Aktion"
 - Geht immer vom Ist-zustand aus
 - Neuer Zustand kann zu IST werden
 - Erproben, Erfahren → daraus schlüsse ziehen
@@ -221,27 +219,27 @@ Lernziele:
 
 ![](media/Doppelrolle.PNG)
 
-- Werkzeuge des Moderators:
-  * Fragen stellen
+#### Werkzeuge des Moderators:
+- Fragen stellen
     * PAKKO-Fragen
     * ![](media/Pakko.PNG)
-    * Paraphrasieren
-    * Visualisieren
+- Paraphrasieren
+- Visualisieren
       * Mindmap
       * ![](media/Mindmap.PNG)
-    * Zusammenfassen
+- Zusammenfassen
 
-- Phasen der Moderation
-  * ähnlich zu den Phasen der Retrospektive
-  * Drehbuch zum geplanten Ablauf
-  * Einstieg → Highlight des Tages
-  * Themen sammeln → Clustern, Mindmap
-  * Thema auswählen
-  * Thema bearbeiten → Mindmap, Ishikawa-Diagramm, Flowchart
-  * ![](media/Ishikawa.PNG)
-  * ![](media/Flowchart.PNG)
-  * Maßnahmen planen → Wer? Bis wann? Mit wem?
-  * Abschluss → Feedback? Workshop sinnvoll?
+#### Phasen der Moderation
+- ähnlich zu den Phasen der Retrospektive
+- Drehbuch zum geplanten Ablauf
+- Einstieg → Highlight des Tages
+- Themen sammeln → Clustern, Mindmap
+- Thema auswählen
+- Thema bearbeiten → Mindmap, Ishikawa-Diagramm, Flowchart
+- ![](media/Ishikawa.PNG)
+- ![](media/Flowchart.PNG)
+- Maßnahmen planen → Wer? Bis wann? Mit wem?
+- Abschluss → Feedback? Workshop sinnvoll?
 
 ![](media/Moderation.PNG)
 
