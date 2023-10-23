@@ -8,16 +8,11 @@ Einführung in das Product Backlog - ein Ort für alle Arbeit
 
 Das product Backlog ist eine List die abzuarbeitende aufgaben (Items) beinhaltet. 
 Die List ist von oben (Hoch) nach unten (Niedrig) priorisiert.
-<<<<<<< HEAD
+
 Je höher ein Item, desto detaillierter ist dieses schon ausgearbeitet, weshalb es weniger Platz auf dem product backlog
 in anspruch nimmt. Je niedriger ein Item ist, desto gröber ist die ausarbeitung, weshalb noch viele Ideen oder
 Möglichkeiten dieses Item umzusetzen, die Item beschreibung in der größe aufblähen. Die oben stehenden Items werden in
 naher Zukunft umgesetzt. Die unten stehenden items spät bis gar nicht. Die wichtigsten Dinge zuerst.
-=======
-Je höher ein Item, desto detaillierter ist dieses schon ausgearbeitet, weshalb es weniger Platz auf dem product backlog in anspruch nimmt.
-Je niedriger ein Item ist, desto gröber ist die ausarbeitung, weshalb noch viele Ideen oder Möglichkeiten dieses Item umzusetzen, die Item beschreibung in der größe aufblähen.
-Die oben stehenden Items werden in naher Zukunft umgesetzt. Die unten stehenden items spät bis gar nicht. Die wichtigsten Dinge zuerst.
->>>>>>> ef6999945b05237da33aaf7cb85a6adcf7c93811
 
 ![](media/ProductBacklogPrio.PNG)
 
