@@ -121,26 +121,142 @@ class: center, middle
 
 - Geschäftswert
 
-- Risiko
+- Risiko (verbunden mit der Anforderung)
 
-- bedeutung aus Kundensicht
+- bedeutung aus Kundensicht (Kundennutzen)
 
 - Cost of Delay
 
 - Einfluss von Aufwand/Komplexität und Kosten
 
-- fortlaufende Pflegekosten
-
+- fortlaufende Pflege-/Wartungskosten
 ---
 ### Priorisieren - Was ist wie wichtig?
 ***
 # Risiko und Wert
 
 ![:scale 75%](informationen/media/BeziehungRisikoGeschäftswert.PNG)
+
+---
+### Priorisieren - Was ist wie wichtig?
+***
+# Cost of Delay
+
+### "Was kostet es, wenn wir die Anforderung erst zu einem späteren Zeitpunkt Umsetzen?"
+
+---
+### Priorisieren - Was ist wie wichtig?
+***
+# Aufwand und Komplexität 
+
+**Aufwand:** geschätzt in Personentagen oder Stunden
+
+--> kann je nach Person und Kenntnissen Variieren
+
+**Komplexität:** Schwierigkeit und Menge der Aufgaben
+
+--> immer gleich
+
+---
+### Priorisieren - Was ist wie wichtig?
+***
+# Wann findet die Priorisierung statt?
+
+nicht nur am Anfang:
+- bei neuen Erkenntnissen oder Erfahrungen
+
+- zur berücksichtigung von Feedback oder Wünschen der Stakeholder
+
+- neue Product Backlog Items
+
+---
+### Priorisieren - Was ist wie wichtig?
+***
+# Tools zur Priorisierung
+
+1. Priorisieren nach Einschätzen der Komplexität
+
+2. Priorisieren nach Einschätzung des Wertes
+   - Einfaches Priorisieren
+
+   - Abstufung durch MuSCoW
+
+   - Priorisierung nach Wert oder Attraktivität für Kunden
+     
+3. Kombinierte betrachtung
+---
+### Priorisieren nach Einschätzen der Komplexität
+***
+### Schätzen mit T-Shirt größen:
+
+-unkomplizierter Überblick
+
+![:scale 75%](informationen/media/T-ShirtSchätzung.PNG)
+
+---
+### Priorisieren nach Einschätzung des Wertes
+***
+### Einfache Priorisierung 
+
+- Priorität 1, 2, 3 (oder mehr)
+
+- Priorität A, B, C (auch mit + oder -)
+
+Nicht immer ideal und kann zu diskussionen führen
+
+---
+### Priorisieren nach Einschätzung des Wertes
+***
+### Abstufung durch MuSCoW
+![](informationen/media/MoSCoW-model-2.png)
+
+---
+### Priorisieren - Was ist wie wichtig?
+***
+# Kundennutzen
+- **Einschätzung am besten durch Kunden selbst**
+
+- Monopoly Money
+
+- 100 Points
+
+- "Buy a Feature"
+
+---
+### Priorisieren nach Einschätzung des Wertes
+***
+### Monopoly Money & 100-Punkte-Methode
+![](informationen/media/The-100-Point-Method-prioritization-logo.jpeg)
+
+---
+### Priorisieren nach Einschätzung des Wertes
+***
+### „Buy a Feature“
+![](informationen/media/Buy%20a%20feature%20präsi%20bild.PNG)
+
+---
+### Priorisieren nach Einschätzung des Wertes
+***
+### Planning Poker mit Business Value Points
+![:scale 75%](informationen/media/PlanningPokerCards.PNG)
+
+---
+### Kombinierte Betrachtung von Komplexität und Wert
+***
+### Wall Estimation
+
+![:scale 90%](informationen/media/WallEstimationPräsiBild.PNG)
 ---
 # Quellen 
 
 [1]: Prune the Product tree Bild, https://huddleiq.com/help-en/research-design-templates/, letzter Zugriff 22.10.2023
+
+[2]: MuSCoW Bild, https://storiesonboard.com/blog/moscow-prioritization-model, letzter Zugriff 23.10.2023
+
+[3]: 100-Points Methode Bild, https://www.maxzosim.com/content/images/2022/12/The-100-Point-Method-prioritization-logo.jpeg, letzter Zugriff 23.10.2023
+
+[4]: Planning Poker Karten Bild, https://www.easyagile.com/blog/planning-poker/, letzter Zugriff 23.10.2023
+
 
 ---
 
