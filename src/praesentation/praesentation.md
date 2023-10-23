@@ -187,3 +187,77 @@ Der Projektlebenszyklus ist die __Abfolge der Phasen__, die ein Projekt vom __Au
 * Retrospektive: wichtiges Meeting, bei dem Zusammenarbeit im Team, seine Prozesse usw. diskutiert werden
 * Stakeholder: tatsächlich Betroffene von oder Beteiligte an Projekten
 * Task Board/Kanban Board: Whiteboard oder Pinnwand mit vertikalen Spalten, auf der Arbeit und Fortschritt dargestellt wird
+
+---
+
+### Agiles Projektmanagement - Scrum
+***
+
+**Scrum:**
+* empirisches Vorgehensmodell mit:
+  * 3 Prinzipien der empirischen Prozesskontrolle
+  * 3 Rollen, 3 Artefakten (Ergebnisse) und 5 Events (Ereignisse, Meetings)
+* Entwicklung komplexer Produkte in komplexen Umfeld
+
+
+![:scale 70%](media/Scrum.png)
+
+---
+
+### Agiles Projektmanagement - Scrum
+***
+
+**Sprint:**
+* Bezeichnung einer Iteration
+* zeitlich begrenztes Event von max. vier Wochen dauer
+* Erarbeitung eines Inkrements (durch Dev-Team)
+* Container für andere Events
+* Sprint folgt direkt auf Sprint
+
+
+![:scale 70%](media/Scrum2.png)
+
+---
+
+### Agiles Projektmanagement - Scrum
+***
+
+**Scrum-Artefakte und Events:**
+* **Sprint Backlog:** Auswahl aus Product Backlog Items + Umsetzungsplan
+* **Sprint Planning:** Erstes Meeting, um Sprint-Inhalt zu planen
+* **Daily Scrum:** Tägliches 15-minütiges Team-Synchronisationsmeeting
+* **Sprint Review:** Kritische Besprechung mit Scrum Team und Stakeholdern
+
+
+![:scale 70%](media/Scrum3.png)
+
+---
+
+### Agiles Projektmanagement - Scrum
+***
+
+**Scrum-Rollen:**
+* **Product Owner:** hat zentrale Verantwortung für Produkt (Erfolg, Profitabilität)
+* **Scrum Master:** kümmert sich um Hindernisse und Probleme sowie das Management des Prozesses
+* **Development Team:** organisiert sich eigenständig und erstellt die Produktinkremente
+* **Scrum Team:** besteht aus Product Owner, Scrum Master und Development Team
+
+---
+
+### Agiles Projektmanagement - Kanban
+***
+
+**Begriffe:**
+* **Kanban:** Signalkarte zur Steuerung des Materialflusses im Produktionssystem
+* **Kanban Board:** Visuelle Organisation von Karten im Kanban-System, mit vertikalen Spalten für Arbeitsschritte von links nach rechts
+* **Kanban System:** Begrenzt die Menge der Arbeit auf dem Kanban Board
+* **Tickets:** Haftzettel oder Karten auf dem Kanban-Board, repräsentieren Arbeitseinheiten
+* **WIP-Limit:** Maximal zulässige Anzahl von Tickets in einer Spalte
+
+---
+
+### Agiles Projektmanagement - Kanban
+***
+
+**Beispiel Kanban Board:**
+![:scale 100%](media/KanbanBoard.png)

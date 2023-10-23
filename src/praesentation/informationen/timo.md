@@ -165,8 +165,7 @@ Beispiele:
 > Das klassische Projektmanagement betont die Vorabplanung (daher auch als plangetrieben bezeichnet). Alle Überlegungen und Planungsergebnisse werden in Projektmanagementplan und Projektplan festgehalten. Die führende Dimension in der Planung ist der Scope. Die Planung von Scope, Kosten, Zeit wird von Sponsor genehmigt und zur sog. Baseline, an der der Fortschritt des Projektes gemessen wird. Alle Änderungen der ursprünglichen Planung unterliegen einem Change-Request.
 
 ## Agiles Projektmanagement
-Agiles Projektmanagement bezeichnet Vorgehensweisen, bei denen das Projektteam über hohe Toleranzen bezüglich Qualität, Umfang, Zeit und Kosten verfügt und eine sehr hohe Mitwirkung des Auftraggebers bei der Erstellung des Werks erforderlich ist. Charakteristisch für agiles Projektmanagement ist die Fokussierung auf das zu liefernde Werk und die Akzeptanz durch die Anwender. Hingegen werden geschäftliche Anforderungen, wie z. B. die Termintreue, Kostentreue oder Erfüllung eines spezifizierten
-Leistungsumfangs weniger oder nicht berücksichtigt.
+Agiles Projektmanagement bezeichnet Vorgehensweisen, bei denen das Projektteam über hohe Toleranzen bezüglich Qualität, Umfang, Zeit und Kosten verfügt und eine sehr hohe Mitwirkung des Auftraggebers bei der Erstellung des Werks erforderlich ist. Charakteristisch für agiles Projektmanagement ist die Fokussierung auf das zu liefernde Werk und die Akzeptanz durch die Anwender. Hingegen werden geschäftliche Anforderungen, wie z. B. die Termintreue, Kostentreue oder Erfüllung eines spezifizierten Leistungsumfangs weniger oder nicht berücksichtigt.
 
 **Begriffe:**
 * Inkrement: Ergebnis, das immer weiter ergänzt wird.
