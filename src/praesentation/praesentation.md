@@ -6,10 +6,10 @@ class: center, middle
 
 # Themes, Epics, Features, User Stories, Tasks – To-dos in unterschiedlicher Granularität
 
-Jan-Ole Timo Löffler
 ---
 #### [Themes, Epics, Features, User Stories, Tasks – To-dos in unterschiedlicher Granularität](../../praesentationen.html)
-## Definition To-dos:
+***
+### Definition To-dos:
 
 * To-dos werden je nach Themengröße mit Unterschiedlichen Namen belegt. 
 Sie bilden eine Hierarchie, in welcher die Basis die großen Themes sind und die Spitze sind die kleinen Tasks zur Umsetzung der einzelnen Themes. 
@@ -17,7 +17,8 @@ Sie bilden eine Hierarchie, in welcher die Basis die großen Themes sind und die
 
 ---
 #### [Themes, Epics, Features, User Stories, Tasks – To-dos in unterschiedlicher Granularität](../../praesentationen.html)
-## Die Hierarchie der Anforderungen
+***
+### Welche To-dos gibt es?
 
 * Theme: ist ein Thema oder eine Idee und damit die gröbste Form einer Anforderung, die Basis. 
 * Epic: Teil eines Themas.
@@ -32,7 +33,8 @@ Sie bilden eine Hierarchie, in welcher die Basis die großen Themes sind und die
 * 4.evtl. weiter herunterbrechen
 ---
 #### [Themes, Epics, Features, User Stories, Tasks – To-dos in unterschiedlicher Granularität](../../praesentationen.html)
-## Die Hierarchie der Anforderungen
+***
+### Die Hierarchie der Anforderungen
 ![:scale 50%](Media\Hierarchie.png)
 
 
@@ -41,31 +43,10 @@ Sie bilden eine Hierarchie, in welcher die Basis die großen Themes sind und die
 * weniger wichtigen Anforderungen bleiben im Product Backlog stehen
 
 ---
+
 #### [Themes, Epics, Features, User Stories, Tasks – To-dos in unterschiedlicher Granularität](../../praesentationen.html)
-### Das Product Backlog ist DEEP
-
-#### D = detailed appropriately
-* Hochpriorisierte To-dos die bald umgesetzt werden brauchen mehr Details
-* Akzeptanzkriterien
-* Buisnessregeln
-
-#### E = emergent
-* Anforderungen kommen hinzu oder entfallen
-* neu priorisieren
-
-#### P = prioritized
-* Product Owner priorisiert wichtige User Stories
-
-
----
-#### [Themes, Epics, Features, User Stories, Tasks – To-dos in unterschiedlicher Granularität](../../praesentationen.html)
-## Projektdurchführung mit einem Task-Board/Kanban-Board 
-
-![:scale 50%](Media\projektdurchführung.png)
-
----
-#### [Themes, Epics, Features, User Stories, Tasks – To-dos in unterschiedlicher Granularität](../../praesentationen.html)
-## Vorteile und Aufbau einer User Story 
+***
+### Vorteile und Aufbau einer User Story 
 
 ### Schablone:
 
@@ -80,6 +61,7 @@ damit (Business-Begründung).
 
 ---
 #### [Themes, Epics, Features, User Stories, Tasks – To-dos in unterschiedlicher Granularität](../../praesentationen.html)
+***
 ### 3C Regel für User Stories 
 * **Card**
   * Karte, auf die die User Story geschrieben werden kann
@@ -93,6 +75,7 @@ Akzeptanzkriterium: Beim Check-out und auf der Rechnung wird die korrekte niedri
 
 ---
 #### [Themes, Epics, Features, User Stories, Tasks – To-dos in unterschiedlicher Granularität](../../praesentationen.html)
+***
 ### Kriterien für gute User Stories
 * **Independent**
   * unabhängig voneinander sein
@@ -112,6 +95,7 @@ Akzeptanzkriterium: Beim Check-out und auf der Rechnung wird die korrekte niedri
 
 ---
 #### [Themes, Epics, Features, User Stories, Tasks – To-dos in unterschiedlicher Granularität](../../praesentationen.html)
+***
 ### Möglichkeiten zum Schneiden von User Stories
 * Splitten nach Workflow
 * Splitten nach Geschäftsregeln
@@ -129,9 +113,9 @@ class: center, middle
 
 # Risiken und Nebenwirkungen 
 
-Jan-Ole Timo Löffler
 ---
 #### [Risiken und Nebenwirkungen](../../praesentationen.html) 
+***
 ### Was sind Risiken? 
 Risiken sind Unwägbarkeiten, die im Falle des Eintretens den Projektverlauf oder das Ergebnis positiv oder negativ beeinflussen können. 
 
@@ -141,6 +125,7 @@ Risiken sind Unwägbarkeiten, die im Falle des Eintretens den Projektverlauf ode
 
 ---
 #### [Risiken und Nebenwirkungen](../../praesentationen.html) 
+***
 ### Planen eines Risikomanagementworkshops
 ![:scale 60%](Media\Risikomanagement.png)
 Es gibt Zwei Möglichkeiten um die Fragen aus dem Schaubild abzuarbeiten.
@@ -149,6 +134,7 @@ Es gibt Zwei Möglichkeiten um die Fragen aus dem Schaubild abzuarbeiten.
 
 ---
 #### [Risiken und Nebenwirkungen](../../praesentationen.html) 
+***
 ### Segelschiffworkshop
 * **Ziel**
   * Brainstorming von Chancen und Bedrohungen
@@ -167,6 +153,7 @@ Es gibt Zwei Möglichkeiten um die Fragen aus dem Schaubild abzuarbeiten.
 
 ---
 #### [Risiken und Nebenwirkungen](../../praesentationen.html) 
+***
 ### Bewerten der Risiken
 * Alle beteiligten im Workshop müssen den gleichen Kenntnisstand haben 
 * Einschätzung über Eintrittswahrscheinlichkeit 
@@ -177,6 +164,7 @@ Es gibt Zwei Möglichkeiten um die Fragen aus dem Schaubild abzuarbeiten.
 
 ---
 #### [Risiken und Nebenwirkungen](../../praesentationen.html) 
+***
 ### Quantifzierung der Risiken 
 * Auswirkungen kriegen mit folgender Formel einen Geldbetrag zugeordnet:
   * (Eintrittswahrscheinlichkeit (in %) multipliziert mit dem Impact bei Eintreten des Risikos (in Euro).) 
@@ -187,6 +175,7 @@ Diese Berechnung ist interessant, um in der Folge abschätzen zu können
 
 ---
 #### [Risiken und Nebenwirkungen](../../praesentationen.html) 
+***
 ### Auswirkung der Risk Responses auf das Product Backlog
 Am Ende können Ihre Überlegungen zu Anpassungen im Product Backlog führen:  
 * Haben Sie vielleicht neue zusätzliche User Stories? 
@@ -202,9 +191,9 @@ class: center, middle
 
 # Minimum Viable Product & Minimum Marketable Features
 
-Jan-Ole Timo Löffler
 ---
 #### [Minimum Viable Product & Minimum Marketable Features](../../praesentationen.html)
+***
 ### Grundgedanke
 Jede Entwicklung birgt als Kernrisiko, dass das Produkt von Kunden nicht angenommen wird.
 Mit dem MVP wird genau dieses Risiko adressiert.
@@ -218,6 +207,7 @@ Mit dem MVP wird genau dieses Risiko adressiert.
   * Bündelung von Funktionalitäten, die einen Teil der Kundenanforderungen erfüllen und gleichzeitig einen Wert für Kunden bieten, wenn es als separate Einheit zur Verfügung gestellt wird.
 ---
 #### [Minimum Viable Product & Minimum Marketable Features](../../praesentationen.html)
+***
 ### Nutzungmöglichkeiten von MMF und MVP
 * **Alternative 1**
   * Zuerst ein MVP 
@@ -225,4 +215,7 @@ Mit dem MVP wird genau dieses Risiko adressiert.
 * **Alternative 2**
   * Ein und dann weitere MVPs
   * Die Kombinationen der MVPs gibt dann ein Minimum Marketable Product. 
+
+![:scale 45%](Media\MVP&MMF.png)
+Die Abbildung zeigt Ihnen das Product Backlog und die Frage nach MVP und MMFs. Sie lassen sich aus einer sich immer wieder ändernden Liste schlecht ableiten.
 ---
