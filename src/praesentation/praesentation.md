@@ -8,7 +8,7 @@ class: center, middle
 
 Jan-Ole Timo Löffler
 ---
-#### Themes, Epics, Features, User Stories, Tasks – To-dos in unterschiedlicher Granularität
+#### [Themes, Epics, Features, User Stories, Tasks – To-dos in unterschiedlicher Granularität](../../praesentationen.html)
 ## Definition To-dos:
 
 * To-dos werden je nach Themengröße mit Unterschiedlichen Namen belegt. 
@@ -216,7 +216,8 @@ Mit dem MVP wird genau dieses Risiko adressiert.
 ### Was ist ein MMF?
 * **Minimum Marketable Feature**
   * Bündelung von Funktionalitäten, die einen Teil der Kundenanforderungen erfüllen und gleichzeitig einen Wert für Kunden bieten, wenn es als separate Einheit zur Verfügung gestellt wird.
-  
+---
+#### [Minimum Viable Product & Minimum Marketable Features](../../praesentationen.html)
 ### Nutzungmöglichkeiten von MMF und MVP
 * **Alternative 1**
   * Zuerst ein MVP 
@@ -224,3 +225,4 @@ Mit dem MVP wird genau dieses Risiko adressiert.
 * **Alternative 2**
   * Ein und dann weitere MVPs
   * Die Kombinationen der MVPs gibt dann ein Minimum Marketable Product. 
+---
