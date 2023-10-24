@@ -7,11 +7,11 @@
 
 Folgende Punkte wurden diskutiert:
 * Entweder hat jeder sein eigenes Inhaltsverzeichnis oder wir haben ein großes gemeinsames Inhaltsverzeichnis
-* Welche Folien bzw. welcher Inhalt in den individuellen Teilen der Präsentation drinbleibt
+* Welche Folien bzw. welcher Inhalt in den individuellen Teilen der Präsentation drin bleibt
 * Wie der Ablauf der Präsentation sein soll (Von Kapitel zu Kapitel oder eigener Stil)
 
 **Nächster Termin**
-* Verlegung des ursprünglichen Meeting Termins am 24.10.2023 um 14:00 Uhr
+* Verlegung des ursprünglichen Meeting-Termins am 24.10.2023 um 14:00 Uhr
 
     => Neuer Termin: **25.10.2023 um 14:00 Uhr (online)**
 
