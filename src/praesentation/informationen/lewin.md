@@ -244,29 +244,6 @@ Lernziele:
 - Maßnahmen planen → Wer? Bis wann? Mit wem?
 - Abschluss → Feedback? Workshop sinnvoll?
 
-#### Werkzeuge des Moderators:
-- Fragen stellen
-  * PAKKO-Fragen
-  * ![](media/Pakko.PNG)
-- Paraphrasieren
-- Visualisieren
-  * Mindmap
-  * ![](media/Mindmap.PNG)
-- Zusammenfassen
-
-#### Phasen der Moderation
-- ähnlich zu den Phasen der Retrospektive
-- Drehbuch zum geplanten Ablauf
-- Einstieg → Highlight des Tages
-- Themen sammeln → Clustern, Mindmap
-- Thema auswählen
-- Thema bearbeiten → Mindmap, Ishikawa-Diagramm, Flowchart
-- ![](media/Ishikawa.PNG)
-- ![](media/Flowchart.PNG)
-- Maßnahmen planen → Wer? Bis wann? Mit wem?
-- Abschluss → Feedback? Workshop sinnvoll?
-
-![](media/Moderation.PNG)
 
 #### Regeln, Tipps und praktische Hinweise
 

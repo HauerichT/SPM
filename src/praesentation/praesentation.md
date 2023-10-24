@@ -161,18 +161,40 @@ class: center, middle
 # Die Gestaltung von Meetings und Workshops
 
 Lewin Wanzek
+---
+### Die Gestaltung von Meetings und Workshops
+***
 
+# Rollen
 
+![](informationen/media/Team.PNG)
 
+---
+### Die Gestaltung von Meetings und Workshops
+***
 
+# Doppelrolle
 
+![](informationen/media/Doppelrolle.PNG)
 
+---
+### Die Gestaltung von Meetings und Workshops
+***
 
+# Werkzeuge
+**Pakko-Fragen:**
+![](informationen/media/Pakko.PNG)
 
+**Visualisieren:**
+![](informationen/media/Mindmap.PNG)
 
+---
+### Die Gestaltung von Meetings und Workshops
+***
 
+# Regeln, Tipps und praktische Hinweise
 
-
+![](informationen/media/purpose.PNG)
 
 
 
