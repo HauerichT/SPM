@@ -2,221 +2,387 @@ class: center, middle
 
 ## [Software Engineering](../../praesentationen.html)
 
-#### Kapitel 1
+# Der rote Faden
 
-# Einleitung
-
-Max Mustermann
-
----
-### Inhalte und Lernziele der Lehrveranstaltung
-
-* Die Relevanz der Softwaretechnik kennen
-* Die Kernthemen der Phasen im Softwareentwicklungszyklus beherrschen
-* Architekturmuster und Entwurfsmuster anwenden können
-* Workflows der DevOps-basierten Softwareentwicklung beherrschen
-* Verfahren der Softwareprüfung und Sicherheit kennen
-* Verteilte Softwaresysteme entwerfen können
-* Unterschiedliche Vorgehensmodelle (insbesondere agile) und deren Phasen beschreiben und anwenden
-* UML-Diagrammtypen modellieren können
-* Qualitätsmerkmale von Software kennen und beschreiben können
+**Stationen**
+* Vision
+* Project Charter
+* Stakeholder
+* Product Backlog
+* Initiales Füllen Product Backlog
+* Risikomanagement
+* Priorisieren
+* Arten von To-dos
+* Minimum Viable Product
+* Story Map
 
 ---
-### Lernziele des ersten Kapitels
+### **Der rote Faden**
+***
+## Die Vision 
 
-* Verstehen, warum Software schwer zu entwickeln ist
-* Erklären können, warum Softwaretechnik notwendig ist
-* Verstehen, was Software ist
-* Unterschiedliche Arten von Software kennen
-* Notwendige Kompetenzen von Software-Ingenieuren kennen
-* Verstehen, dass zur Softwareentwicklung mehr gehört als die reine Programmierung
+- Zielrichtung
+- Projektleiter und Sponsor -> Verständnis
+
+Beantwortet die Fragen: 
+
+* Worum geht es?
+* Was ist das Ziel?
+* Was wollen wir erreichen?
+---
+### **Der rote Faden**
+***
+## Project Charter
+
+* Rahmenbedingungen
+* Projektleiter erstellt
+* Sponsor genehmigt
+* Stakeholder erhalten
 
 ---
-class: center, middle
+### **Der rote Faden**
+***
+## Stakeholder
 
-## Software
 
----
-### Was ist Software?
+* Alle Beteiligte an dem Projekt        
+    * Sponsor
+    * Projektleiter 
+    * Teammitglieder
+    * etc.
 
-* Programme, zugehörige Daten und Dokumentationen, die es zusammengefasst erlauben, mit Hilfe eines Computers Aufgaben zu erledigen.
-* Software ist demnach ein umfassenderer Begriff als "Programm" oder "Code", weil alle Elemente inbegriffen sind, die für den Betrieb notwendig sind. z.B. Datenbankskripte, Dokumentation, Betriebshandbücher, Build-Skripte, Deployment-Skripte etc.
-
----
-### Softwaresystem vs. Softwareprodukt
-
-* Ein *Softwaresystem* ist ein System, dessen Bestandteile und Elemente aus Software bestehen ("innere" Sicht des Softwareentwicklers)
-* Ein *Softwareprodukt* ist ein für einen Auftraggeber erstelltes Softwaresystem ("äußere" Sicht)
-
-![:scale 50%](media/produktvssystem.jpg)
+* wichtig für das Product Backlog (Anforderungen)
+![:scale 30%](informationen/media/Stakeholder.PNG)
 
 ---
-## Arten von Software
+### **Der rote Faden**
+***
+## Product Backlog
 
-* Systemsoftware
-  * Betriebssystem
-* Anwendungssoftware
-  * Büroanwendungen (Textverarbeitung etc.)
-* Spiele
-  * Minecraft, Fortnite
-* Eingebettete Systeme
-  * Steuerungssoftware für Geräte
-* Echtzeitsysteme
-  * Flugüberwachung, Kraftwerkssteuerung, etc.
-* Informationssysteme
-  * Datenbankgestützte Verwaltung von Information; oft webbasiert
-
-#### Herkunft / Herstellung
-
-* Standardsoftware
-  * Anpassbare Software (z.B. SAP) für vorher nicht bekannte Kunden
-* Individualsoftware
-  * Speziell auf die Bedürfnisse eines Kunden/Auftraggeber entwickelte Software (daher zeitaufwändig und teure Entwicklung) zur Unterstützung spezieller Geschäftsprozesse 
+* Alle Arbeit die zu leisten ist
+    * Anforderungen
+    * Know-How
+    * Dokumentationsarbeiten
+* Priorisiert - wichtigsten oben
+* unterschiedlich detailliert
+* Backlog lebt
 
 ---
-## Eigenschaften von Software
+### **Der rote Faden**
+***
+## Risikomanagement
 
-* Software wird in Teams hergestellt und in mehreren Versionen ausgeliefert
-* Software kann man nicht anfassen: Software ist immateriell
-* Entwicklungsfortschritt ist daher nicht objektiv messbar
-* Anders als materielle Produkte verschleißt Software nicht, altert aber dennoch, denn sowohl Anforderungen an die Software als auch die Umgebung, in der Software eingesetzt wird, ändern sich
-* Software muss an diese Änderungen angepasst werden
-
----
-class: center, middle
-
-## Software Projekte
+* fördernd (positiv)
+    * Chancen
+* behindernd (negativ)
+    * Risiken
+* notwendige Dinge -> Product Backlog
 
 ---
-### Probleme in Software-Projekten
+### **Der rote Faden**
+***
+## Minimum Viable Product (MVP)
 
+* Prototyp
+* Feedback von Stakeholdern
+* z.B. App 
 
+## Minimum Viable Feature (MMF)
 
-* Unvollständige, schlechte definierte, oft geänderte Anforderungen
-* Unrealistische, unklare oder unausgesprochene Zielvorstellungen
-* Hohe Komplexität und lange Lebensdauer dere Software
-* Verwendung unausgereifter Technologie
-* Schlechtes Projektmanagement
-* Zu wenig Ressourcen bzw. falsche Schätzung benötigter Ressourcen
-* Unrealistische Zeit- und Kostenpläne und nicht gemanagte Risiken
-* Fehlende Planung und unklare Verantwortlichkeiten
-* Unfähigkeit, die Projektkomplexität in den Griff zu kriegen
-* Schlechte Kommunikation zwischen Kunden, Entwicklern und Benutzern und nicht eingebundene  Anwender
-* "Politische" Gründe der Beteiligten
-* Kommerzieller und zeitlicher Druck
-* Qualitätsmängel bei extern vergebenen Aufgaben
-* Schlechte Softwarequalität durch nachlässige Entwicklungspraktiken
-* Unvollständige Dokumentation
-* Vielzahl an anderen Dokumenten neben dem Source-Code
-* Pflege von Altsystemen ist schwierig
-* Softwaresyteme werden mit mehr als einer Person entwickelt und existieren in mehreren Versionen
-
-#### Software Engineering sucht nach Lösungen
+* Kundenanforderungen
+* Nutzen
 
 ---
-class: center, middle
+### **Der rote Faden**
+***
+## Die Roadmap - Story Map
 
-## Software Engineering
+* Übersicht über Wellen Releases
+* Feedback von Stakeholdern
+* Welle = Chance auf Feedback
+* nicht zu lange in eine Richtung
+---
+
+### **Der rote Faden**
+***
+## Ergebnis der Planung
+
+* Auftraggeber/Projektleiter gleiches Verständnis
+* Projekt genehmigt
+* Stakeholder + Anforderungen sind klar
+* Product Backlog erstellt
+* Ungefähre Reihenfolge der Arbeit (Road Map)
 
 ---
-## Ziele des Software Engineerings
 
-Software Engineering (auch Softwaretechnik oder Softwaretechnologie) ist die systematische Verwendung von Prinzipien, Methoden und Werkzeugen für die arbeitsteilige, ingenieurmäßige, strukturierte Entwicklung und kosten- und zeiteffiziente Bereitstellung und Betrieb von komplexen Softwaresystemen mit hoher Qualität
+# Die Vision
+***
+**Entwicklung und Einsatz**
 
-* **Entwicklungsaspekt**
-  * Schnelle und effiziente Entwicklung des Softwareprodukts durch Verwendung von Softwarewerkzeugen zur Automatisierung von wiederkehrenden Aufgaben
-* **Qualitätssicherungsaspekt**
-  * Stellt die Qualität in den Mittelpunkt (Kundenzufriedenheit, Sicherheit) und fordert die Einhaltung der geforderten Qualitätsmerkmale
-* **Managementaspekt**
-  * Strukturierte und kontrollierte Projektabwicklung basierend auf (agilen) Vorgehensmodellen
-* **Wartungsaspekt**
-  * Sicherstellung der Wartbarkeit, Erweiterbarkeit, Wiederverwendbarkeit und der Beherrschung der Komplexität durch Verwendung von Entwurfsprinzipien
+* Grundidee des Projektes erklären
+* Gruppen aufteilen
+* Elevator Pitch(Kurzpräsentation)/ Product Box (Produktverpackung)
+
+**Vorgang**
+* schreiben der Vision
+* Vorstellen
+* besten Teile zusammenfassen
+
+**Ohne Gruppen** -> Ausarbeitung durch Projektleiter -> Sponsor vorstellen
+
+**Einsatz**
+* Sichtbar für alle
+---
+### **Die Vision**
+***
+## Elevator Pitch
+
+* Kurzpräsentation (2 Minuten)
+* Wichtige Punkte:
+    * Für wen ?
+    * Was ist das Bedürfnis?
+    * Was ist das Produkt?
+    * Warum sollte man es kaufen
+    * Was macht das Produkt anders
+---
+### **Die Vision**
+***
+**Die eigene elevator Speech erstellen**
+
+* In den Schuhen des Kunden laufen
+* Wichtigsten Punkte 
+* authentisch bleiben
+* Text können egal welcher Gesprächspartner
+* Vorsichtig mit Fachsprache
+* keine Last-Minute-Änderungen im Gespräch
+* Begeisterung zeigen
+
+**Einsatzmöglichkeiten**
+* Treffen mit Kollegen 
+* Treffen mit Führungskräften 
+* Treffen mit anderen Projektleitern 
+* Netzwerktreffen 
+* Telefonate z.B. mit Stakeholdern 
+---
+
+### **Die Vision**
+***
+## Design the Product Box
+
+![:scale 70%](informationen/media/Product%20Box.PNG)
+
+* Produkt attraktiv machen
+* Vorderseite: Logo, Name des Projektes, Schlüsselbotschaften
+* Rückseite: die wichtigsten Kerneigenschaften.
+---
+# Project Charter (Projektauftrag)
+
+* Vision -> Richtung
+* Charter -> Genehmigung
+* Vision ist Teil der Genehmigung
+* Charter ist erforderlich
+---
+### **Projekt Charter**
+***
+## Nutzen
+
+* Ein Projekt für ein Ziel (effizient)
+* Umfangreicher als die Vision
+
+**Inhalt**
+
+* Warum dieses Projekt?
+* Projektziele?
+* Inhalt und Umfang
+* Stakeholder?
+* Wo und mit welchen Ressourcen?
+* Wann? (Start/Ende)
+* Wie? (Umsetzung)
+* Risiken? (Chancen/Bedrohungen)
+---
+### **Projekt Charter**
+***
+**Darstellung**
+* Dokument
+* Grafische Zusammenfassung
+
+## Dokument
+
+* In Word
+* Gestaltung vorgegeben (Lesbarkeit)
+---
+### **Projekt Charter**
+***
+## Grafische Darstellung
+
+* Project Canvas
+    * Informationen auf einer Seite
+    * keine Standarts
+    * PowerPoint
+
+![:scale 80%](informationen/media/Project Canvas.PNG)
+---
+### **Projekt Charter**
+***
+## Projektziele
+
+* Messbar formuliert (SMART)
+    - S – Spezifsch M – Messbar A – Ansprechend, motivierend R – Realistisch T – Terminiert 
+* Im Einflussbereich und Rahmen
+
+**Besprechung mit Sponsor**
+* Gleiches Verständnis über:
+    * Grenzen
+    * Projektziel
+    * Stakeholder
+    * Risiken
+
+**Genehmigung** -> "richtiges" Projekt
+---
+### **Projekt Charter**
+***
+## Team Charter
+
+* für die Dauer des Projektes
+* unterschiedliche Lebenszeiten 
+
+Eventuel kommen die Projekte zu den Teams
+
+**Umfang**
+* Zweck des Teams
+* Rollen im Team
+* Werte des Teams
+* Üblichen Kernarbeitszeiten
+* Spielregeln z.B. Verhalten in Meetings
+* lebendiges Dokument
+* In Meetings ausstellen
+---
+
+# Stakeholder
+
+* Alle Betroffenen
+    * Stake im Projekt (Einsatz,Anteil, etc.)
+
+**Stakeholder identifizieren**
+
+* Stakeholder-Analyse
+* Personas
+---
+### **Stakeholder**
+***
+## Stakeholder-Analyse
+
+1. Liste über Stakeholder-Gruppen
+2. Einfluss und Betroffenheit kennen (Stakeholder-Portfolio)
+3. Strategie zum Einbinden dieser entwickeln
+
+**Stakeholder Gruppen**
+
+* Wer kann bei der Gestaltung helfen?
+* Anwender?
+* Schnittstellen? (Betroffene)
+* Mitspracherecht?
+* Betriebsrat?
+* Wer könnte Feedback geben ?
+* Stakeholder außerhalb ?
+* usw.
+
+Gruppen: Kunden, Externe, Kollegen
+---
+### **Stakeholder**
+***
+## Stakeholder-Analyse
+
+**Einfluss und Betroffenheit**
+* Einfluss und Betroffenheit herausfinden (Matrix)
+
+![:scale 70%](informationen/media/Matrix.PNG)
+---
+### **Stakeholder**
+***
+## Stakeholder-Analyse
+
+**Kommunikationsstrategie zur Einbindung**
+![:scale 40%](informationen/media/Matrix.PNG)
+1. Stakeholder als Partner
+    * Einbinden in Kommunikation und Entscheidungsprozess
+    * Aufwand sehr hoch (Kunden, Sponsoren)
+2. Stakeholder im Gespräch
+    * Regelmäßig informiert
+    * Bedenken/Meinungen umgesetzt
+3. informierte Stakeholder
+    * Lediglich informiert
+---
+
+### **Stakeholder**
+***
+## Stakeholder-Analyse
+**Stakeholder Register**
+
+* Liste über Informationen (zugänglich)
+
+**Inhalt**
+* Name
+* Rolle
+* Abteilung und Kontaktdaten
+* Anforderungen
+* Auswirkung auf Stakeholder
+* Einfluss von Stakeholder
+* Kommunikationsstrategie
 
 ---
-### Themengebiete des Software Engineerings
+### **Stakeholder**
+***
+**Stakeholder identifizieren**
 
-<div class="mermaid">
-mindmap
-  Informatik
-    Theoretische Informatik
-    Technische Informatik
-    Praktische Informatik
-      Softwaretechnik
-        Modellierungssprachen
-        Entwicklungsprozesse
-        Werkzeuge
-        Architekturen
-</div>
-
-
+* Stakeholder-Analyse
+* **Personas**
 ---
-class: center, middle
+### **Stakeholder**
+***
+## Personas
 
-## Software Ingenieure
-
+- Eignet sich für Nutzer
+- Gruppen bilden
+- Namen vergeben
+- Sammlungen von Personas
 ---
-## Rahmenbedingungen
+### **Stakeholder**
+***
+## Personas
+* verschiedene Nutzer-Gruppen
+* Nutzen bei Benutzerschnittstellen (Microsoft)
 
-* Den Programmierer, der auf der Basis seines einmal erworbenen Wissens
-Anforderungen als Einzelkämpfer umsetzt, gibt es nicht.
-* Softwareentwicklung ist eine Teamanstrengung.
-* Software entsteht im Dialog mit dem Kunden, den Anwendern, den Kollegen, den Vorgesetzten, den Teammitgliedern.
-
-#### Software Ingenieure
-
-* können mehr als nur programmieren und sind demnach keine reinen Entwickler oder Programmierer von Software
-* arbeiten in Software Projekten methodisch und strukturiert mit anderen Beteiligten zusammen, um Softwareprodukte effizient in Teamarbeit zu erstellen
-* arbeiten in der IT-Abteilung eines Unternehmens in der Software-Entwicklung oder in einem IT-Beratungsunternehmen oder als (Teil)-Projektleiter 
-
-
-
+**Erstellung**
+- im Team (Verständnis)
+* Typische Nutzer
+* Überschneidungen ?
+* Namen geben 
+* In deren Schuhen laufen
+* Personas bei Product backlog und To-Dos nutzen
+* aktualisieren nach Feedback
 ---
-### Kompetenzen von Software Ingenieuren
-
-**Hard skills**
-
-ist spezielles Fachwissen (z.B. Programmierung), das durch Studium oder Ausbildung vermittelt und objektiv sichtbar gemacht werden kann
-
-**Soft skills**
-
-sind "weiche" Fähigkeiten, also außerfachliche bzw. fachübergreifende "Schlüssel"-Kompetenzen, die schwieriger zu erlernen und zu überprüfen sind, wie z.B.
-
-* Kommunikationsfähigkeit (communication skills)
-* Zwischenmenschliche Kompetenzen (interpersonal skills)
-* Analytische Fähigkeiten (analytical and problem-solving skills)
-* Teamfähigkeit (team player)
-* Organisationskompetenz (organizational skills)
-* Lernfahigkeit (fast learner)
-* Selbstständigkeit (ability to work independently)
-* Kreativität (innovative and creative)
-* Flexibilität (open and adaptable to changes) 
-
+### **Stakeholder**
+***
+## Personas
+**Beschreibung der Personas**
+* Name (Peter der PO(Product Owner))
+* Grundanforderung
+* Beschreibung als Nutzer
+* Motivation für Nutzung
+* Ideale Features für diese persona
+![:scale 60%](informationen/media/Persona.PNG)
 ---
-### Der idealtypische Software-Ingenieur
 
-* ist motiviert, fleißig, freundlich, hilfsbereit, eigeninitiativ, neugierig, eigenständig, respektvoll und teamfähig
-* besitzt logisches und abstraktes Denkvermögen
-* setzt sich kreativ für eine Sache ein und ist offen für Veränderungen und lernt gerne eigenverantwortlich Neues kennen
-* beherrscht die deutsche Rechtschreibung
-* ist kommunikationsfähig und kommunikationswillig und kann komplizierte Sachverhalte komprimiert und verständlich darstellen
-
-**Hinweise:**
-
-* Diese Kompetenzen sind erlernbar bzw. willentlich beeinflussbar
-* Niemand erwartet, dass Sie alles wissen oder perfekt beherrschen, denn Sie sind ja gerade hier, um dazu lernen.
-* Haben Sie keine Angst, Fehler zu machen.
-* Schauen Sie nicht so sehr auf die Noten, sondern versuchen Sie, die Sachverhalte zu verstehen und entwickeln Sie sich persönlich, menschlich, methodisch und organisatorisch weiter
-* Lernen Sie keine Technologien, sondern Konzepte
-* Finden Sie Ihr eigenes Tempo, indem Sie Sie auf Ihre eigene Fähigkeiten achten und nicht auf die Fähigkeiten Anderen
-* In der IT-Branche ist ein lebenslanges Lernen erforderlich
-* Studieren bedeutet: Lernen zu lernen.
-
----
-## Zusammenfassung
-
-* Softwareprodukte bestehen aus Programmen, Dokumentation und weiteren Artefakten
-* Software Engineering ist eine Ingenieur-Disziplin, die sich mit allen Aspekten der Softwareentwicklung und Softwarewartung beschäftigt
-* Ziel des Software Engineerings ist die Erreichung einer hohen Softwarequalität und die Minimierung der Kosten
-* Software Engineering geht über die reine Programmierung hinaus und befasst sich mit Konzepten, Methoden und Werkzeugen für die professionelle Entwicklung von wartbarer Software
-* Software Ingenieure arbeiten in Teams in Software Projekten methodisch und strukturiert und kommunizieren mit Kunden und Teammitgliedern
-
+# Kunden/Nutzer besser verstehen
+**JTBD-Framework (Jobs-to-be-done)**
+* Pain-Gain-Map
+    * Gains
+        * Was möchte die Person?
+        * Wie definiert sie Erfolg?
+        * Was kann das Produkt bieten?
+        * Wovon profitiert sie?
+    * Pains
+        * Wofür ist er verantwortlich?
+        * Wovor hat er Angst?
+        * Welche hindernisse kennt er?
