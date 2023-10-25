@@ -216,10 +216,7 @@ class: center, middle
 * Project Charter
 * Stakeholder
 * Product Backlog
-* Initiales Füllen Product Backlog
 * Risikomanagement
-* Priorisieren
-* Arten von To-dos
 * Minimum Viable Product
 * Story Map
 
@@ -286,13 +283,6 @@ Beantwortung der W-Fragen:
 ---
 ### **Der rote Faden**
 ***
-* Backlog Items
-
-![:scale 80%](image.png)
-
----
-### **Der rote Faden**
-***
 ## Risikomanagement
 
 * fördernd (positiv)
@@ -325,14 +315,7 @@ Beantwortung der W-Fragen:
 * Welle = Chance auf Feedback
 * nicht zu lange in eine Richtung
 
-### **Der rote Faden**
-***
-## Agiles Projektmanagement
-
-* Change getrieben
-* Richtung kennen
-* zu detailreich -> Arbeit um sonst
-
+---
 ### **Der rote Faden**
 ***
 ## Ergebnis der Planung
