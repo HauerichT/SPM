@@ -5,7 +5,7 @@
 	Campus Minden<br>
 	Bachelor of Computer Science<br>
 	Wintersemester 2023/2024<br>
-	Timo Haverich, Jan-Ole Löffler, Tim Röckemann, Lewin ..., Kevin Zuber, Tobias ...
+	Timo Haverich, Jan-Ole Löffler, Tim Röckemann, Lewin Wanzek, Kevin Zuber, Tobias Wegner
 </div>
 
 [Start](index)

@@ -2,11 +2,11 @@ class: center, middle
 
 ## [Software Projektmanagement](../../praesentationen.html)
 
-#### Kapitel 1
+#### Kapitel 1-4
 
-# Einleitung
+# Einführung
 
-Max Mustermann
+Timo Haverich
 
 ---
 ### Inhalt
@@ -207,8 +207,15 @@ __Agiles Projektmanagement:__
 ---
 class: center, middle
 
-## [Software Engineering](../../praesentationen.html)
+## [Software Projektmanagement](../../praesentationen.html)
 
+#### Kapitel 5-8
+
+# Der rote Faden 
+
+Tim Röckemann
+
+---
 # Der rote Faden
 
 **Stationen**
@@ -258,7 +265,7 @@ Beantwortung der W-Fragen:
 ***
 ## Stakeholder
 
-![:scale 80%](Stakeholder.PNG)
+![:scale 30%](informationen/media/Stakeholder.PNG)
 * Alle Beteiligte an dem Projekt
     * Sponsor
     * Projektleiter
@@ -382,7 +389,7 @@ Beantwortung der W-Fragen:
 ***
 ## Design the Product Box
 
-![:scale 80%](<Product Box.PNG>)
+![:scale 70%](informationen/media/Product Box.PNG)
 
 * Produkt attraktiv machen
 * Vorderseite: Logo, Name des Projektes, Schlüsselbotschaften
@@ -433,7 +440,7 @@ Beantwortung der W-Fragen:
     * keine Standarts
     * PowerPoint
 
-![:scale 80%](Project Canvas.PNG)
+![:scale 80%](informationen/media/Project%20Canvas.PNG)
 ---
 ### **Projekt Charter**
 ***
@@ -509,14 +516,15 @@ Gruppen: Kunden, Externe, Kollegen
 **Einfluss und Betroffenheit**
 * Einfluss und Betroffenheit herausfinden (Matrix)
 
-![:scale 80%](Matrix.PNG)
+![:scale 70%](informationen/media/Matrix.PNG)
 ---
 ### **Stakeholder**
 ***
 ## Stakeholder-Analyse
 
 **Strategie zu Einbindung**
-![:scale 80%](Matrix.PNG)
+
+![:scale 40%](informationen/media/Matrix.PNG)
 
 1. Stakeholder als Partner
     * Einbinden in Kommunikation und Entscheidungsprozess
@@ -552,11 +560,12 @@ Gruppen: Kunden, Externe, Kollegen
 **Erstellung**
 - im Team (Verständnis)
 * Typische Nutzer
-* Überschneidungen ?
+* Überschneidungen?
 * Namen geben 
 * In deren Schuhen laufen
 * Personas bei Product backlog und To-Dos nutzen
 * aktualisieren nach Feedback
+
 ---
 ### **Stakeholder**
 ***
@@ -568,7 +577,9 @@ Gruppen: Kunden, Externe, Kollegen
 * Beschreibung als Nutzer
 * Motivation für Nutzung
 * Ideale Features für diese persona
-![scale: 80%](Persona.PNG)
+
+![:scale 50%](informationen/media/Persona.PNG)
+
 ---
 
 # Kunden/Nutzer besser verstehen
@@ -583,6 +594,257 @@ Gruppen: Kunden, Externe, Kollegen
         * wofür ist er verantwortlich?
         * Wovor hat er Angst?
         * Welche hindernisse kennt er?
+---
+class: center, middle
+
+## [Software Projektmanagement](../../praesentationen.html)
+
+#### Kapitel 9 - 11
+
+# Product Backlog, befüllung und priorisierung
+
+Tobias Wegner 
+
+---
+### Einführung in das Product Backlog
+***
+# Product Backlog
+
+- **Liste**
+
+- **Aufgaben (Items)**
+
+- **priorisierung (Hoch - Niedrig)**
+
+- Gut, wenn: sichtbar, transparent, klar, zeigt aktuelle arbeit
+
+--> Product Owner
+
+---
+### Einführung in das Product Backlog
+***
+# Priorität
+
+![:scale 75%](informationen/media/ProductBacklogPrio.PNG)
+
+---
+### Einführung in das Product Backlog
+***
+# Das Product Backlog ist DEEP:
+
+- **Detailed appropriately** --> Items unterschiedlich ausgearbeitet
+
+- **Emergent** --> Backlog nicht statisch, durchgehende entwicklung
+
+- **Estimated** --> schätzung der Items (Wert nach Umsetzung / Komplexität & Aufwand)
+
+- **Prioritized** --> wichtig oben, unwichtig unten
+
+---
+### Einführung in das Product Backlog
+***
+# Product Owner
+
+- **alleinig verantwortlich** für Product Backlog
+
+- entscheidungen müssen respektiert werden
+
+Aufgaben:
+- Einträge **klar** formulieren
+- Einträge **sortieren**
+- wert der Arbeit **optimieren**
+
+**--> Ziele sollen optimal erreicht werden**
+
+**--> verantwortlich für erfolg des Projekts & ROI (Return on Invest)**
+
+---
+### Einführung in das Product Backlog
+***
+# Rollenverteilung
+
+- Product Owner vs. Projektleiter
+
+- **Empfehlungen**, aber **keine festen Vorgaben**
+
+- Kompetenzen und Verantwortungen --> Projekt Charter
+
+![](informationen/media/ProductOwner.PNG)
+
+---
+class: center, middle
+
+# Das Product Backlog initial befüllen
+
+### 1. Prune the Product Tree
+
+### 2. Remember the Future
+
+---
+### Das Product Backlog initial befüllen
+***
+# Prune the Product Tree
+
+Ziel: Produkt in Form bringen (für den Markt "trimmen")
+
+--> Anforderungen und To-Do´s sammeln und strukturieren
+
+![:scale 50%](informationen/media/Prune-the-Product-Tree-Preview.png)
+
+---
+### Das Product Backlog initial befüllen
+***
+# Remember the Future
+
+- Rückblick als wär das Projekt schon fertig
+
+- "was war damals das Erfolgsgeheimnis?"
+
+- zusammen mit Stakeholdern und Kunden
+
+![:scale 90%](informationen/media/RTFsmall.PNG)
+
+---
+class: center, middle
+
+# Priorisieren - Was ist wie wichtig?
+
+### 1. wichtige Aspekte zur Beeinflussung
+
+### 2. Tools zur Priorisierung
+
+---
+### Priorisieren - Was ist wie wichtig?
+***
+# wichtige Aspekte zur Beeinflussung
+
+- Geschäftswert
+
+- Risiko (verbunden mit der Anforderung)
+
+- bedeutung aus Kundensicht (Kundennutzen)
+
+- Cost of Delay
+
+- Einfluss von Aufwand/Komplexität und Kosten
+
+- fortlaufende Pflege-/Wartungskosten
+---
+### Priorisieren - Was ist wie wichtig?
+***
+# Risiko und Wert
+
+![:scale 75%](informationen/media/BeziehungRisikoGeschäftswert.PNG)
+
+---
+### Priorisieren - Was ist wie wichtig?
+***
+# Cost of Delay
+
+### "Was kostet es, wenn wir die Anforderung erst zu einem späteren Zeitpunkt Umsetzen?"
+
+---
+### Priorisieren - Was ist wie wichtig?
+***
+# Aufwand und Komplexität
+
+**Aufwand:** geschätzt in Personentagen oder Stunden
+
+--> kann je nach Person und Kenntnissen Variieren
+
+**Komplexität:** Schwierigkeit und Menge der Aufgaben
+
+--> immer gleich
+
+---
+### Priorisieren - Was ist wie wichtig?
+***
+# Wann findet die Priorisierung statt?
+
+nicht nur am Anfang:
+- bei neuen Erkenntnissen oder Erfahrungen
+
+- zur berücksichtigung von Feedback oder Wünschen der Stakeholder
+
+- neue Product Backlog Items
+
+---
+### Priorisieren - Was ist wie wichtig?
+***
+# Tools zur Priorisierung
+
+1. Priorisieren nach Einschätzen der Komplexität
+
+2. Priorisieren nach Einschätzung des Wertes
+    - Einfaches Priorisieren
+
+    - Abstufung durch MuSCoW
+
+    - Priorisierung nach Wert oder Attraktivität für Kunden
+
+3. Kombinierte betrachtung
+---
+### Priorisieren nach Einschätzen der Komplexität
+***
+### Schätzen mit T-Shirt größen:
+
+-unkomplizierter Überblick
+
+![:scale 75%](informationen/media/T-ShirtSchätzung.PNG)
+
+---
+### Priorisieren nach Einschätzung des Wertes
+***
+### Einfache Priorisierung
+
+- Priorität 1, 2, 3 (oder mehr)
+
+- Priorität A, B, C (auch mit + oder -)
+
+Nicht immer ideal und kann zu diskussionen führen
+
+---
+### Priorisieren nach Einschätzung des Wertes
+***
+### Abstufung durch MuSCoW
+![](informationen/media/MoSCoW-model-2.png)
+
+---
+### Priorisieren - Was ist wie wichtig?
+***
+# Kundennutzen
+- **Einschätzung am besten durch Kunden selbst**
+
+- Monopoly Money
+
+- 100 Points
+
+- "Buy a Feature"
+
+---
+### Priorisieren nach Einschätzung des Wertes
+***
+### Monopoly Money & 100-Punkte-Methode
+![](informationen/media/The-100-Point-Method-prioritization-logo.jpeg)
+
+---
+### Priorisieren nach Einschätzung des Wertes
+***
+### „Buy a Feature“
+![](informationen/media/Buy%20a%20feature%20präsi%20bild.PNG)
+
+---
+### Priorisieren nach Einschätzung des Wertes
+***
+### Planning Poker mit Business Value Points
+![:scale 75%](informationen/media/PlanningPokerCards.PNG)
+
+---
+### Kombinierte Betrachtung von Komplexität und Wert
+***
+### Wall Estimation
+
+![:scale 90%](informationen/media/WallEstimationPräsiBild.PNG)
 
 ---
 class: center, middle
@@ -591,10 +853,12 @@ class: center, middle
 
 #### Kapitel 12
 
-# Themes, Epics, Features, User Stories, Tasks – To-dos in unterschiedlicher Granularität
+# To-dos, Risiken, MVP und MMFs 
 
+Jan-Ole Löffler
+    
 ---
-#### [Themes, Epics, Features, User Stories, Tasks – To-dos in unterschiedlicher Granularität](../../praesentationen.html)
+#### To-dos, Risiken, MVP und MMFs
 ***
 ### Definition To-dos:
 
@@ -603,29 +867,26 @@ Sie bilden eine Hierarchie, in welcher die Basis die großen Themes sind und die
 
 
 ---
-#### [Themes, Epics, Features, User Stories, Tasks – To-dos in unterschiedlicher Granularität](../../praesentationen.html)
+#### To-dos, Risiken, MVP und MMFs
 ***
 ### Die Hierarchie der Anforderungen
-![:scale 50%](Media\Hierarchie.png)
+![:scale 50%](informationen/media/Hierarchie.png)
 
 ### Wie kann man To-dos abarbeiten?
-* 1. Gröbsten Anforderungen angucken
-* 2. herunterbechen
-* 3. Anforderungen klein genug, um sie in begrenzter Zeit umsetzen zu können (User Stories)
-* 4. evtl. weiter herunterbrechen
+1. Gröbsten Anforderungen angucken
+2. herunterbechen
+3. Anforderungen klein genug, um sie in begrenzter Zeit umsetzen zu können (User Stories)
+4. evtl. weiter herunterbrechen
 ---
-#### [Themes, Epics, Features, User Stories, Tasks – To-dos in unterschiedlicher Granularität](../../praesentationen.html)
+#### To-dos, Risiken, MVP und MMFs
 ***
-
-
 
 ### Warum gibt es so eine Hierarchie?
 * Herunterbrechen und betrachten der hoch priorisierten Anforderungen
 * weniger wichtigen Anforderungen bleiben im Product Backlog stehen
 
 ---
-
-#### [Themes, Epics, Features, User Stories, Tasks – To-dos in unterschiedlicher Granularität](../../praesentationen.html)
+#### To-dos, Risiken, MVP und MMFs
 ***
 ### Vorteile und Aufbau einer User Story 
 
@@ -641,7 +902,7 @@ damit (Business-Begründung).
 
 
 ---
-#### [Themes, Epics, Features, User Stories, Tasks – To-dos in unterschiedlicher Granularität](../../praesentationen.html)
+#### To-dos, Risiken, MVP und MMFs
 ***
 ### 3C Regel für User Stories 
 * **Card**
@@ -655,7 +916,7 @@ Akzeptanzkriterium: Beim Check-out und auf der Rechnung wird die korrekte niedri
 
 
 ---
-#### [Themes, Epics, Features, User Stories, Tasks – To-dos in unterschiedlicher Granularität](../../praesentationen.html)
+#### To-dos, Risiken, MVP und MMFs
 ***
 ### Kriterien für gute User Stories
 * **Independent**
@@ -674,10 +935,8 @@ Akzeptanzkriterium: Beim Check-out und auf der Rechnung wird die korrekte niedri
 * **Testable**
   * testen ob User Storie gut verstanden wurde
 
-
-
 ---
-#### [Themes, Epics, Features, User Stories, Tasks – To-dos in unterschiedlicher Granularität](../../praesentationen.html)
+#### To-dos, Risiken, MVP und MMFs
 ***
 ### Möglichkeiten zum Schneiden von User Stories
 * Splitten nach Workflow
@@ -688,16 +947,7 @@ Akzeptanzkriterium: Beim Check-out und auf der Rechnung wird die korrekte niedri
 * Nach Operationen wie Lesen, Neuerfassen, Ändern, Löschen. 
 
 ---
-class: center, middle
-
-## [Software Projektmanagement](../../praesentationen.html)
-
-#### Kapitel 13
-
-# Risiken und Nebenwirkungen 
-
----
-#### [Risiken und Nebenwirkungen](../../praesentationen.html) 
+#### To-dos, Risiken, MVP und MMFs
 ***
 ### Was sind Risiken? 
 Risiken sind Unwägbarkeiten, die im Falle des Eintretens den Projektverlauf oder das Ergebnis positiv oder negativ beeinflussen können. 
@@ -707,16 +957,17 @@ Risiken sind Unwägbarkeiten, die im Falle des Eintretens den Projektverlauf ode
 * immanente Risiken (nicht durch einzelne Ereignisse ausgelöst)
 
 ---
-#### [Risiken und Nebenwirkungen](../../praesentationen.html) 
+#### To-dos, Risiken, MVP und MMFs
 ***
 ### Planen eines Risikomanagementworkshops
-![:scale 60%](Media\Risikomanagement.png)
-Es gibt Zwei Möglichkeiten um die Fragen aus dem Schaubild abzuarbeiten.
-* 1. Seminarprojekt
-* 2. Segelschiffworkshop
+![:scale 60%](informationen/media/Risikomanagement.png)
+
+Es gibt Zwei Möglichkeiten, um die Fragen aus dem Schaubild abzuarbeiten.
+1. Seminarprojekt
+2. Segelschiffworkshop
 
 ---
-#### [Risiken und Nebenwirkungen](../../praesentationen.html) 
+#### To-dos, Risiken, MVP und MMFs
 ***
 ### Segelschiffworkshop
 * **Ziel**
@@ -735,7 +986,7 @@ Es gibt Zwei Möglichkeiten um die Fragen aus dem Schaubild abzuarbeiten.
 
 
 ---
-#### [Risiken und Nebenwirkungen](../../praesentationen.html) 
+#### To-dos, Risiken, MVP und MMFs
 ***
 ### Bewerten der Risiken
 * Alle beteiligten im Workshop müssen den gleichen Kenntnisstand haben 
@@ -743,10 +994,10 @@ Es gibt Zwei Möglichkeiten um die Fragen aus dem Schaubild abzuarbeiten.
 * Einschätzung der Auswirkungen
 
 ### Einordnen der Risiken 
-![:scale 50%](Media\Probability-Impact-Matrix.png)
+![:scale 50%](informationen/media/Probability-Impact-Matrix.png)
 
 ---
-#### [Risiken und Nebenwirkungen](../../praesentationen.html) 
+#### To-dos, Risiken, MVP und MMFs
 ***
 ### Quantifzierung der Risiken 
 * Auswirkungen kriegen mit folgender Formel einen Geldbetrag zugeordnet:
@@ -757,25 +1008,16 @@ Diese Berechnung ist interessant, um in der Folge abschätzen zu können
 * Welche Auswirkung die gewählte Risk Response haben wird und ob sich diese lohnt. 
 
 ---
-#### [Risiken und Nebenwirkungen](../../praesentationen.html) 
+#### To-dos, Risiken, MVP und MMFs
 ***
 ### Auswirkung der Risk Responses auf das Product Backlog
 Am Ende können Ihre Überlegungen zu Anpassungen im Product Backlog führen:  
 * Haben Sie vielleicht neue zusätzliche User Stories? 
 * Wird aufgrund dessen anders sortiert werden? 
 * Entfällt ein Feature oder eine User Story? 
----
-
-class: center, middle
-
-## [Software Projektmanagement](../../praesentationen.html)
-
-#### Kapitel 14
-
-# Minimum Viable Product & Minimum Marketable Features
 
 ---
-#### [Minimum Viable Product & Minimum Marketable Features](../../praesentationen.html)
+#### To-dos, Risiken, MVP und MMFs
 ***
 ### Grundgedanke
 Jede Entwicklung birgt als Kernrisiko, dass das Produkt von Kunden nicht angenommen wird.
@@ -789,7 +1031,7 @@ Mit dem MVP wird genau dieses Risiko adressiert.
 * **Minimum Marketable Feature**
   * Bündelung von Funktionalitäten, die einen Teil der Kundenanforderungen erfüllen und gleichzeitig einen Wert für Kunden bieten, wenn es als separate Einheit zur Verfügung gestellt wird.
 ---
-#### [Minimum Viable Product & Minimum Marketable Features](../../praesentationen.html)
+#### To-dos, Risiken, MVP und MMFs
 ***
 ### Nutzungmöglichkeiten von MMF und MVP
 * **Alternative 1**
@@ -797,30 +1039,44 @@ Mit dem MVP wird genau dieses Risiko adressiert.
   * Dann immer wieder MMFs 
 * **Alternative 2**
   * Ein und dann weitere MVPs
-  * Die Kombinationen der MVPs gibt dann ein Minimum Marketable Product. 
+  * Die Kombinationen der MVPs gibt dann ein Minimum Marketable Product.
+![:scale 45%](informationen/media/MVP&MMF.png)
 
-![:scale 45%](Media\MVP&MMF.png)
 Die Abbildung zeigt Ihnen das Product Backlog und die Frage nach MVP und MMFs. Sie lassen sich aus einer sich immer wieder ändernden Liste schlecht ableiten.
 ---
-einleitungsfolie Kevin
+class: center, middle
+
+## [Software Projektmanagement](../../praesentationen.html)
+
+#### Kapitel 15-17
+
+# Story Map, Zeitabschätzungen, Magic Estimation, Einführung Kanban
+
+Kevin Zuber
 
 ---
-## Story Map
-
-![](<media/Story Map Grundprinzip.jpg>)
+#### Story Map, Zeitabschätzungen, Magic Estimation, Einführung Kanban
+***
+### Story Map
+![:scale 75%](informationen/media/Story Map Grundprinzip.jpg)
 
 ---
+#### Story Map, Zeitabschätzungen, Magic Estimation, Einführung Kanban
+***
 ### Einfügen der Schritte in die Story Map
 
-![](<media/Story Map_Schritte einfügen.jpg>)
+![](informationen/media/Story Map_Schritte einfügen.jpg)
 
 ---
-## Story Map Beispiel mit Alternativen
+#### Story Map, Zeitabschätzungen, Magic Estimation, Einführung Kanban
+***
+### Story Map Beispiel mit Alternativen
 
-![](<media/Story Map mit Alternativen.jpg>)
+![](informationen/media/Story Map mit Alternativen.jpg)
 
 ---
-
+#### Story Map, Zeitabschätzungen, Magic Estimation, Einführung Kanban
+***
 ### Kleine Problemzonen bei der Story Map
 * Reihenfolge der Schritte kann sich situativ ändern / Es gibt von vornherein mehrere Möglichkeiten
 
@@ -829,16 +1085,22 @@ einleitungsfolie Kevin
 * Teilaspekte stellen eher Ergänzungen anstatt Alternativen dar
 
 ---
+#### Story Map, Zeitabschätzungen, Magic Estimation, Einführung Kanban
+***
 ### Story Map mit Meilensteinlinien
 
-![](<media/Story Map mit Meilensteinlinien.jpg>)
+![](informationen/media/Story Map mit Meilensteinlinien.jpg)
 
 ---
+#### Story Map, Zeitabschätzungen, Magic Estimation, Einführung Kanban
+***
 ### Schritte beim Erstellen der Story Map
 
-![](<media/Schritte beim Erstellen der Story Map.jpg>)
+![](informationen/media/Schritte beim Erstellen der Story Map.jpg)
 
 ---
+#### Story Map, Zeitabschätzungen, Magic Estimation, Einführung Kanban
+***
 ## Story oder Product Backlog
 
 | Story Map | Product Backlog |
@@ -850,6 +1112,8 @@ einleitungsfolie Kevin
 |Hilft beim Entdecken von Lücken| Lücken nur schwer erkennbar|
 
 ---
+#### Story Map, Zeitabschätzungen, Magic Estimation, Einführung Kanban
+***
 ### Vorhandenes Produkt ergänzen
 
 * Schritt 1: Wesentliches Ziel, das in nächster Zeit erreicht werden soll, auswählen.
@@ -861,8 +1125,9 @@ einleitungsfolie Kevin
 * Schritt 5: Alternativen nach ihrer Priorität sortieren.
 * Schritt 6: Kombination auswählen, mit der jeweils in einer "Welle" ein Nutzen gezogen werden kann.
 ---
-
-## Schätzen der Dauer und Meilensteinplanung
+#### Story Map, Zeitabschätzungen, Magic Estimation, Einführung Kanban
+***
+### Schätzen der Dauer und Meilensteinplanung
 
 In der Story Map wurden bereits Meilensteinlinien gezogen.
 Nun stellen sich folgende Fragen:
@@ -877,10 +1142,12 @@ Nun stellen sich folgende Fragen:
 
 * Durchschnittliche Geschwindigkeit ermitteln.
 
-Mit Hilfe dieser Informationen kann der Ankunftszeitpunkt abgeschätzt werden.
+Mithilfe dieser Informationen kann der Ankunftszeitpunkt abgeschätzt werden.
 
 ---
-## Schätzen der Komplexität
+#### Story Map, Zeitabschätzungen, Magic Estimation, Einführung Kanban
+***
+### Schätzen der Komplexität
 
 * Keine Festlegung auf Tage oder Stunden
 * Relative Schätzung
@@ -893,11 +1160,17 @@ Mit Hilfe dieser Informationen kann der Ankunftszeitpunkt abgeschätzt werden.
   * Schätzen mit Story Points
   * Planning Poker
 ---
-## Magic Estimation
+#### Story Map, Zeitabschätzungen, Magic Estimation, Einführung Kanban
+***
+### Magic Estimation
 
 * Verwendung von Story Points
 
 * Schätzung erfolgt durch Gruppieren der Anforderungen
+---
+#### Story Map, Zeitabschätzungen, Magic Estimation, Einführung Kanban
+***
+### Magic Estimation
 
 **Schritt 1 - Auslegen und Informieren:**
 * Die zu schätzenden Anforderungen werden auf einem Tisch ausgebreitet.
@@ -916,9 +1189,14 @@ Mit Hilfe dieser Informationen kann der Ankunftszeitpunkt abgeschätzt werden.
 
 * Geschätzter Komplexitätsgrad wird auf der jeweiligen Karte notiert.
 ---
-![](<media/Magic Estimation.jpg>)
+#### Story Map, Zeitabschätzungen, Magic Estimation, Einführung Kanban
+***
+### Magic Estimation
+![](informationen/media/Magic Estimation.jpg)
 
 ---
+#### Story Map, Zeitabschätzungen, Magic Estimation, Einführung Kanban
+***
 ### Abschätzen der Durchschnittsgeschwindigkeit
 
 Was ist die Durchschnittsgeschwindigkeit eines Teams?
@@ -929,6 +1207,9 @@ Was ist die Durchschnittsgeschwindigkeit eines Teams?
 * In **Kanban** => Messung der Durchlaufzeit
 
 ---
+#### Story Map, Zeitabschätzungen, Magic Estimation, Einführung Kanban
+***
+### Abschätzen der Durchschnittsgeschwindigkeit
 
 **Die Durchschnittsgeschwindigkeit des Teams ist bekannt**
 * Vorhandene Erfahrungswerte bei Teams, die bereits in ähnlichen Projekten zusammengearbeitet haben.
@@ -941,7 +1222,11 @@ Was ist die Durchschnittsgeschwindigkeit eines Teams?
 * Erfahrungswerte sammeln und Durchschnittsgeschwindigkeit ermitteln
 
 * Aufwand mit Hilfe der bisherigen relativen Schätzung hochrechnen
-
+---
+#### Story Map, Zeitabschätzungen, Magic Estimation, Einführung Kanban
+***
+### Abschätzen der Durchschnittsgeschwindigkeit
+    
 **Was fehlt noch bei der Abschätzung des Zeitbedarfs?**
 * Eventuelle Nachbesserungen, Tests, Meetings, Statusberichte
 
@@ -950,7 +1235,9 @@ Was ist die Durchschnittsgeschwindigkeit eines Teams?
   * Muss zum geschätzten Aufwand zur Umsetzung der Anforderungen hinzuaddiert werden.
 
 ---
-## Einführung in Kanban
+#### Story Map, Zeitabschätzungen, Magic Estimation, Einführung Kanban
+***
+### Einführung in Kanban
 
 * **Kanban-Methode:** Sechs Praktiken und vier fundamentale Prinzipien
 
@@ -968,6 +1255,10 @@ Was ist die Durchschnittsgeschwindigkeit eines Teams?
 * die Arbeit in festen Iterationen nicht möglich ist.
 
 ---
+#### Story Map, Zeitabschätzungen, Magic Estimation, Einführung Kanban
+***
+### Einführung in Kanban
+
 **Praktik 1: Mach Arbeit sichtbar**
 * Die Arbeitstypen im System identifizieren
 * Auf dem Kanban-Board die Prozessschritte festlegen
@@ -983,10 +1274,12 @@ Was ist die Durchschnittsgeschwindigkeit eines Teams?
 * Woher kommen die Arbeitsaufträge?
 * Wie wird der Zufuss an Arbeit ins System gesteuert?
 * Wie werden Releases/Lieferungen geplant?
-* Wie wird mit Arbeit aus unterschiedlichen Serviceklassen umgegangen?
-* Gibt es zwischendurch Wartezeiten? Übergaben?
 
 ---
+#### Story Map, Zeitabschätzungen, Magic Estimation, Einführung Kanban
+***
+### Einführung in Kanban
+
 **Praktik 4: Mach Prozessregeln explizit**
 * Wann ist "fertig" wirklich "fertig"?
 * Wann kann ein Ticket von einem Prozesschritt zu einem anderen weiterwandern?
@@ -998,8 +1291,11 @@ Was ist die Durchschnittsgeschwindigkeit eines Teams?
 * Mit welchen Teilnehmern und welchem Ziel?
 
 **Praktik 6: Führe gemeinschaftlich Verbesserungen durch**
-
+---
+#### Story Map, Zeitabschätzungen, Magic Estimation, Einführung Kanban
+***
 ### Kanban Flight Level
+
 * Flight Level 1: Operative Ebene mit einem Projekt oder Team
 * Flight Level 2: Koordinierung der Zusammenarbeit mehrerer Teams
 * Flight Level 3: Strategisches Portfoliomanagement
@@ -1009,21 +1305,16 @@ class: center, middle
 
 ## [Software Projektmanagement](../../index.html)
 
-#### Kapitel 18 & 19
+#### Kapitel 18 - 21
 
-# Einführung in Kanban
+#  Kanban 
 **&**
-# Die Kanban Praktiken
+#  Gestaltung von Meetings und Workshops
 
 Lewin Wanzek
 
 ---
-class: center, middle
-
-## Einführung in Kanban
-
----
-### Einführung in Kanban
+### Kanban - Einführung
 ***
 
 * Starte mit dem, was du jetzt machst.
@@ -1032,7 +1323,7 @@ class: center, middle
 * Fördere Leadership auf allen Ebenen in der Organisation.
 
 ---
-### Einführung in Kanban
+### Kanban - Einführung
 ***
 
 * Flexibilität
@@ -1134,12 +1425,6 @@ class: center, middle
 ## "Fördere Leadership auf allen Ebenen der Organisation" (Grundprinzip)
 
 ---
-### Leadership - Gemeinsam besser werden
-***
-
-![](informationen/media/Retrospektive.PNG)
-
----
 class: center, middle
 
 ## Verständnis (Wert)
@@ -1158,16 +1443,6 @@ class: center, middle
 
 ## Respekt (Wert)
 
----
-class: center, middle
-
-## [Software Projektmanagement](../../index.html)
-
-#### Kapitel 21
-
-# Die Gestaltung von Meetings und Workshops
-
-Lewin Wanzek
 ---
 ### Die Gestaltung von Meetings und Workshops
 ***
@@ -1202,3 +1477,27 @@ Lewin Wanzek
 # Regeln, Tipps und praktische Hinweise
 
 ![](informationen/media/purpose.PNG)
+---
+
+class: center, middle
+
+## [Software Projektmanagement](../../index.html)
+
+#### Github Funktionen
+
+#  Github Live-Demo
+#  Erstellung & Anwendung
+
+
+Willi Schäfer
+
+---
+# Quellen
+
+[1]: Prune the Product tree Bild, https://huddleiq.com/help-en/research-design-templates/, letzter Zugriff 22.10.2023
+
+[2]: MuSCoW Bild, https://storiesonboard.com/blog/moscow-prioritization-model, letzter Zugriff 23.10.2023
+
+[3]: 100-Points Methode Bild, https://www.maxzosim.com/content/images/2022/12/The-100-Point-Method-prioritization-logo.jpeg, letzter Zugriff 23.10.2023
+
+[4]: Planning Poker Karten Bild, https://www.easyagile.com/blog/planning-poker/, letzter Zugriff 23.10.2023
