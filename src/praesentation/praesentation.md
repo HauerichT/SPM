@@ -9,10 +9,7 @@ class: center, middle
 * Project Charter
 * Stakeholder
 * Product Backlog
-* Initiales Füllen Product Backlog
 * Risikomanagement
-* Priorisieren
-* Arten von To-dos
 * Minimum Viable Product
 * Story Map
 
@@ -87,7 +84,7 @@ Beantwortet die Fragen:
 * Feedback von Stakeholdern
 * z.B. App 
 
-## Minimum Viable Feature (MMF)
+## Minimum Marketable Feature (MMF)
 
 * Kundenanforderungen
 * Nutzen
@@ -370,7 +367,7 @@ Gruppen: Kunden, Externe, Kollegen
 * Grundanforderung
 * Beschreibung als Nutzer
 * Motivation für Nutzung
-* Ideale Features für diese persona
+* Ideale Features für diese Persona
 ![:scale 60%](informationen/media/Persona.PNG)
 ---
 
@@ -385,4 +382,4 @@ Gruppen: Kunden, Externe, Kollegen
     * Pains
         * Wofür ist er verantwortlich?
         * Wovor hat er Angst?
-        * Welche hindernisse kennt er?
+        * Welche Hindernisse kennt er?

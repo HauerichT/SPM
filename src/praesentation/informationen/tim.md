@@ -56,7 +56,6 @@ Das initiale Befüllen des Product Backlogs
 
 In einem/mehreren Workshops wird die Liste initialisiert. Damit sind die wichtigsten Anforderungen der Stakeholder aufgenommen. Diese können sich später auch noch ändern. Agiles Projektmanagement ist change-getrieben und dies macht es unter anderen auch attraktiver für Unternehmen und Projektleiter. 
 
-13.10.2023 20:00 Uhr 1 Stunde 
 
 Priorisieren der Product Backlog Items 
 
@@ -217,7 +216,6 @@ Die Verpackung ist dafür da, um Informationen bereit zu stellen, die jemanden d
 
 Ziel: Erarbeitung der Vision mit den herausragenden Produktmerkmalen 
 
-16.10.2023 2 Stunden 
 
 Beispiel: Sie stehen in einem Supermarkt und wollen ein Müsli kaufen. Vor Ihnen im Regal stehen jede Menge Müslischachteln. Was spricht Sie so an, dass Sie sich eine herausnehmen und die Vorderseite lesen? Was finden Sie auf der Vorderseite? Ein Logo, vielleicht ein Foto, groß den Namen des Müslis, einige Kernbotschaften. Dann drehen Sie die Schachtel herum und lesen die weiteren wichtigen Eigenschaften des Produktes 
 
@@ -302,7 +300,6 @@ Wer sind die wichtigen Stakeholder? Gibt es Stakeholder, die Sie vielleicht noch
 
 Mit der Genehmigung z.B. über eine Mail besitzt man ein “richtiges” Projekt 
 
-18.10.2023 1 Stunde 
 
 Die Team Charter: 
 
@@ -464,11 +461,9 @@ Pains (Schmerzpunkte)
 • Was würde ihn nachts wachhalten?  
 • Mit welchen Hindernissen hat er zu kämpfen? 
 
-Persona Beispiel: 
+
 
   
 
-19.10.2023 2 Stunden 
 
-23.10.2023 2,5 Stunden Präsentation 
     
