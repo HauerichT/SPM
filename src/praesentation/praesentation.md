@@ -801,226 +801,206 @@ Mit dem MVP wird genau dieses Risiko adressiert.
 
 ![:scale 45%](Media\MVP&MMF.png)
 Die Abbildung zeigt Ihnen das Product Backlog und die Frage nach MVP und MMFs. Sie lassen sich aus einer sich immer wieder ändernden Liste schlecht ableiten.
+---
+einleitungsfolie Kevin
 
 ---
-class: center, middle
+## Story Map
 
-## [Software Engineering](../../praesentationen.html)
-
-#### Kapitel 1
-
-# Einleitung
-
-Max Mustermann
+![](<media/Story Map Grundprinzip.jpg>)
 
 ---
-### Inhalte und Lernziele der Lehrveranstaltung
+### Einfügen der Schritte in die Story Map
 
-* Die Relevanz der Softwaretechnik kennen
-* Die Kernthemen der Phasen im Softwareentwicklungszyklus beherrschen
-* Architekturmuster und Entwurfsmuster anwenden können
-* Workflows der DevOps-basierten Softwareentwicklung beherrschen
-* Verfahren der Softwareprüfung und Sicherheit kennen
-* Verteilte Softwaresysteme entwerfen können
-* Unterschiedliche Vorgehensmodelle (insbesondere agile) und deren Phasen beschreiben und anwenden
-* UML-Diagrammtypen modellieren können
-* Qualitätsmerkmale von Software kennen und beschreiben können
+![](<media/Story Map_Schritte einfügen.jpg>)
 
 ---
-### Lernziele des ersten Kapitels
+## Story Map Beispiel mit Alternativen
 
-* Verstehen, warum Software schwer zu entwickeln ist
-* Erklären können, warum Softwaretechnik notwendig ist
-* Verstehen, was Software ist
-* Unterschiedliche Arten von Software kennen
-* Notwendige Kompetenzen von Software-Ingenieuren kennen
-* Verstehen, dass zur Softwareentwicklung mehr gehört als die reine Programmierung
+![](<media/Story Map mit Alternativen.jpg>)
 
 ---
-class: center, middle
 
-## Software
+### Kleine Problemzonen bei der Story Map
+* Reihenfolge der Schritte kann sich situativ ändern / Es gibt von vornherein mehrere Möglichkeiten
 
----
-### Was ist Software?
+* Karten mit wiederholenden Schritten
 
-* Programme, zugehörige Daten und Dokumentationen, die es zusammengefasst erlauben, mit Hilfe eines Computers Aufgaben zu erledigen.
-* Software ist demnach ein umfassenderer Begriff als "Programm" oder "Code", weil alle Elemente inbegriffen sind, die für den Betrieb notwendig sind. z.B. Datenbankskripte, Dokumentation, Betriebshandbücher, Build-Skripte, Deployment-Skripte etc.
+* Teilaspekte stellen eher Ergänzungen anstatt Alternativen dar
 
 ---
-### Softwaresystem vs. Softwareprodukt
+### Story Map mit Meilensteinlinien
 
-* Ein *Softwaresystem* ist ein System, dessen Bestandteile und Elemente aus Software bestehen ("innere" Sicht des Softwareentwicklers)
-* Ein *Softwareprodukt* ist ein für einen Auftraggeber erstelltes Softwaresystem ("äußere" Sicht)
-
-![:scale 50%](media/produktvssystem.jpg)
+![](<media/Story Map mit Meilensteinlinien.jpg>)
 
 ---
-## Arten von Software
+### Schritte beim Erstellen der Story Map
 
-* Systemsoftware
-  * Betriebssystem
-* Anwendungssoftware
-  * Büroanwendungen (Textverarbeitung etc.)
-* Spiele
-  * Minecraft, Fortnite
-* Eingebettete Systeme
-  * Steuerungssoftware für Geräte
-* Echtzeitsysteme
-  * Flugüberwachung, Kraftwerkssteuerung, etc.
-* Informationssysteme
-  * Datenbankgestützte Verwaltung von Information; oft webbasiert
-
-#### Herkunft / Herstellung
-
-* Standardsoftware
-  * Anpassbare Software (z.B. SAP) für vorher nicht bekannte Kunden
-* Individualsoftware
-  * Speziell auf die Bedürfnisse eines Kunden/Auftraggeber entwickelte Software (daher zeitaufwändig und teure Entwicklung) zur Unterstützung spezieller Geschäftsprozesse 
+![](<media/Schritte beim Erstellen der Story Map.jpg>)
 
 ---
-## Eigenschaften von Software
+## Story oder Product Backlog
 
-* Software wird in Teams hergestellt und in mehreren Versionen ausgeliefert
-* Software kann man nicht anfassen: Software ist immateriell
-* Entwicklungsfortschritt ist daher nicht objektiv messbar
-* Anders als materielle Produkte verschleißt Software nicht, altert aber dennoch, denn sowohl Anforderungen an die Software als auch die Umgebung, in der Software eingesetzt wird, ändern sich
-* Software muss an diese Änderungen angepasst werden
-
----
-class: center, middle
-
-## Software Projekte
+| Story Map | Product Backlog |
+|:---------:|:---------------:|
+|Dient dem Überblick über ein Produkt oder ein Prozess| Liste aller anstehenden Arbeiten|
+|Ist nicht im User-Story-Format| To-dos werden als User Stories formuliert|
+|Dient dem Entdecken des Produktes| Bildet mehr das Ergebnis des Entdeckens ab|
+|Dient der Kommunikation mit den Stakeholdern| Kommunikation ist nicht gut unterstützt|
+|Hilft beim Entdecken von Lücken| Lücken nur schwer erkennbar|
 
 ---
-### Probleme in Software-Projekten
+### Vorhandenes Produkt ergänzen
+
+* Schritt 1: Wesentliches Ziel, das in nächster Zeit erreicht werden soll, auswählen.
+* Schritt 2: Involvierte Nutzerrollen identifizieren.
+
+* Schritt 3: Wesentliche Schritte der Nutzer identifizieren, um das Ziel zu erreichen.
+* Schritt 4: Alternativen notieren, wie diese Schritte umgesetzt werden können.
+
+* Schritt 5: Alternativen nach ihrer Priorität sortieren.
+* Schritt 6: Kombination auswählen, mit der jeweils in einer "Welle" ein Nutzen gezogen werden kann.
+---
+
+## Schätzen der Dauer und Meilensteinplanung
+
+In der Story Map wurden bereits Meilensteinlinien gezogen.
+Nun stellen sich folgende Fragen:
+* Wie "weit" ist es bis zum nächsten Meilenstein?
+* Wann wird man fertig?
 
 
+**Was kann für die "agile Teamplanung" genutzt werden?**
+* Die "Strecke" ist durch die Story Map bereits bekannt.
 
-* Unvollständige, schlechte definierte, oft geänderte Anforderungen
-* Unrealistische, unklare oder unausgesprochene Zielvorstellungen
-* Hohe Komplexität und lange Lebensdauer dere Software
-* Verwendung unausgereifter Technologie
-* Schlechtes Projektmanagement
-* Zu wenig Ressourcen bzw. falsche Schätzung benötigter Ressourcen
-* Unrealistische Zeit- und Kostenpläne und nicht gemanagte Risiken
-* Fehlende Planung und unklare Verantwortlichkeiten
-* Unfähigkeit, die Projektkomplexität in den Griff zu kriegen
-* Schlechte Kommunikation zwischen Kunden, Entwicklern und Benutzern und nicht eingebundene  Anwender
-* "Politische" Gründe der Beteiligten
-* Kommerzieller und zeitlicher Druck
-* Qualitätsmängel bei extern vergebenen Aufgaben
-* Schlechte Softwarequalität durch nachlässige Entwicklungspraktiken
-* Unvollständige Dokumentation
-* Vielzahl an anderen Dokumenten neben dem Source-Code
-* Pflege von Altsystemen ist schwierig
-* Softwaresyteme werden mit mehr als einer Person entwickelt und existieren in mehreren Versionen
+* "Entfernung" (Komplexität) der anstehenden Arbeiten auf der Strecke ermitteln.
 
-#### Software Engineering sucht nach Lösungen
+* Durchschnittliche Geschwindigkeit ermitteln.
+
+Mit Hilfe dieser Informationen kann der Ankunftszeitpunkt abgeschätzt werden.
 
 ---
-class: center, middle
+## Schätzen der Komplexität
 
-## Software Engineering
+* Keine Festlegung auf Tage oder Stunden
+* Relative Schätzung
+
+* Verschiedene To-dos werden im Vergleich betrachtet:
+  * Welches ist komplexer, welches weniger komplex?
+
+**Erinnerung:**
+  * Relatives Schätzen mit T-Shirt-Größen
+  * Schätzen mit Story Points
+  * Planning Poker
+---
+## Magic Estimation
+
+* Verwendung von Story Points
+
+* Schätzung erfolgt durch Gruppieren der Anforderungen
+
+**Schritt 1 - Auslegen und Informieren:**
+* Die zu schätzenden Anforderungen werden auf einem Tisch ausgebreitet.
+
+* Die Skala wird auf der Wand oder dem Boden markiert.
+
+**Schritt 2 - Erstes Einordnen:**
+* Das Team sieht sich gemeinsam alle Anforderungen an.
+
+* Jeder kann sich Anforderungen nehmen und einordnen.
+
+**Schritt 3 - Überblick und Korrekturen:**
+* Nach der Einsortierung verschafft sich das Team einen Überblick.
+
+* Jeder kann nun die karten neu sortieren.
+
+* Geschätzter Komplexitätsgrad wird auf der jeweiligen Karte notiert.
+---
+![](<media/Magic Estimation.jpg>)
 
 ---
-## Ziele des Software Engineerings
+### Abschätzen der Durchschnittsgeschwindigkeit
 
-Software Engineering (auch Softwaretechnik oder Softwaretechnologie) ist die systematische Verwendung von Prinzipien, Methoden und Werkzeugen für die arbeitsteilige, ingenieurmäßige, strukturierte Entwicklung und kosten- und zeiteffiziente Bereitstellung und Betrieb von komplexen Softwaresystemen mit hoher Qualität
+Was ist die Durchschnittsgeschwindigkeit eines Teams?
+* Verwendung der Anzahl der Story Points, die das Team in einem bestimmten Zeitrahmen üblicherweise schafft.
 
-* **Entwicklungsaspekt**
-  * Schnelle und effiziente Entwicklung des Softwareprodukts durch Verwendung von Softwarewerkzeugen zur Automatisierung von wiederkehrenden Aufgaben
-* **Qualitätssicherungsaspekt**
-  * Stellt die Qualität in den Mittelpunkt (Kundenzufriedenheit, Sicherheit) und fordert die Einhaltung der geforderten Qualitätsmerkmale
-* **Managementaspekt**
-  * Strukturierte und kontrollierte Projektabwicklung basierend auf (agilen) Vorgehensmodellen
-* **Wartungsaspekt**
-  * Sicherstellung der Wartbarkeit, Erweiterbarkeit, Wiederverwendbarkeit und der Beherrschung der Komplexität durch Verwendung von Entwurfsprinzipien
+* In **Scrum** => Velocity des Teams
+
+* In **Kanban** => Messung der Durchlaufzeit
 
 ---
-### Themengebiete des Software Engineerings
 
-<div class="mermaid">
-mindmap
-  Informatik
-    Theoretische Informatik
-    Technische Informatik
-    Praktische Informatik
-      Softwaretechnik
-        Modellierungssprachen
-        Entwicklungsprozesse
-        Werkzeuge
-        Architekturen
-</div>
+**Die Durchschnittsgeschwindigkeit des Teams ist bekannt**
+* Vorhandene Erfahrungswerte bei Teams, die bereits in ähnlichen Projekten zusammengearbeitet haben.
 
+* Voraussichtliche Ankunfszeit ist abschätzbar.
 
----
-class: center, middle
+**Die Durchschnittsgeschwindigkeit des Teams ist nicht bekannt**
+* Traditionelle Schätzmethode für die Ermittlung des Aufwands benutzen
 
-## Software Ingenieure
+* Erfahrungswerte sammeln und Durchschnittsgeschwindigkeit ermitteln
 
----
-## Rahmenbedingungen
+* Aufwand mit Hilfe der bisherigen relativen Schätzung hochrechnen
 
-* Den Programmierer, der auf der Basis seines einmal erworbenen Wissens
-Anforderungen als Einzelkämpfer umsetzt, gibt es nicht.
-* Softwareentwicklung ist eine Teamanstrengung.
-* Software entsteht im Dialog mit dem Kunden, den Anwendern, den Kollegen, den Vorgesetzten, den Teammitgliedern.
+**Was fehlt noch bei der Abschätzung des Zeitbedarfs?**
+* Eventuelle Nachbesserungen, Tests, Meetings, Statusberichte
 
-#### Software Ingenieure
+  * Ist nicht als Anforderung in der Story Map erfasst.
 
-* können mehr als nur programmieren und sind demnach keine reinen Entwickler oder Programmierer von Software
-* arbeiten in Software Projekten methodisch und strukturiert mit anderen Beteiligten zusammen, um Softwareprodukte effizient in Teamarbeit zu erstellen
-* arbeiten in der IT-Abteilung eines Unternehmens in der Software-Entwicklung oder in einem IT-Beratungsunternehmen oder als (Teil)-Projektleiter 
-
-
+  * Muss zum geschätzten Aufwand zur Umsetzung der Anforderungen hinzuaddiert werden.
 
 ---
-### Kompetenzen von Software Ingenieuren
+## Einführung in Kanban
 
-**Hard skills**
+* **Kanban-Methode:** Sechs Praktiken und vier fundamentale Prinzipien
 
-ist spezielles Fachwissen (z.B. Programmierung), das durch Studium oder Ausbildung vermittelt und objektiv sichtbar gemacht werden kann
+* **Kanban-System:** Pull-System, das durch die Limitierung der Anzahl Signalkarten (Kanbans) implementiert wird.
 
-**Soft skills**
+* **Personal Kanban:** Anwendung von Kanban auf Einzelpersonen oder kleine Teams, um die Arbeitsmenge zu steuern.
 
-sind "weiche" Fähigkeiten, also außerfachliche bzw. fachübergreifende "Schlüssel"-Kompetenzen, die schwieriger zu erlernen und zu überprüfen sind, wie z.B.
+* **Wissensarbeit:** Arbeit, die primär das Nutzen und Weiterentwickeln von Wissen umfasst.
 
-* Kommunikationsfähigkeit (communication skills)
-* Zwischenmenschliche Kompetenzen (interpersonal skills)
-* Analytische Fähigkeiten (analytical and problem-solving skills)
-* Teamfähigkeit (team player)
-* Organisationskompetenz (organizational skills)
-* Lernfahigkeit (fast learner)
-* Selbstständigkeit (ability to work independently)
-* Kreativität (innovative and creative)
-* Flexibilität (open and adaptable to changes) 
+**Kanban eignet sich immer dann besonders, wenn**
+* das Umfeld und die Arbeit von Unterbrechungen geprägt sind.
+
+* die Konzentration auf nur ein Projekt nicht gegeben ist.
+
+* die Arbeit in festen Iterationen nicht möglich ist.
 
 ---
-### Der idealtypische Software-Ingenieur
+**Praktik 1: Mach Arbeit sichtbar**
+* Die Arbeitstypen im System identifizieren
+* Auf dem Kanban-Board die Prozessschritte festlegen
+* Wie sollen die Tickets aussehen, die die Arbeit im System repräsentieren?
 
-* ist motiviert, fleißig, freundlich, hilfsbereit, eigeninitiativ, neugierig, eigenständig, respektvoll und teamfähig
-* besitzt logisches und abstraktes Denkvermögen
-* setzt sich kreativ für eine Sache ein und ist offen für Veränderungen und lernt gerne eigenverantwortlich Neues kennen
-* beherrscht die deutsche Rechtschreibung
-* ist kommunikationsfähig und kommunikationswillig und kann komplizierte Sachverhalte komprimiert und verständlich darstellen
+**Praktik 2: Limitiere den Work in Progress**
+* Mantra in Kanban: "Stop starting, start finishing"
+* Einführung von künstlichen Begrenzungen:
+  * In Scrum: Timebox der Iterationen
+  * In Kanban: WIP-Limit
 
-**Hinweise:**
-
-* Diese Kompetenzen sind erlernbar bzw. willentlich beeinflussbar
-* Niemand erwartet, dass Sie alles wissen oder perfekt beherrschen, denn Sie sind ja gerade hier, um dazu lernen.
-* Haben Sie keine Angst, Fehler zu machen.
-* Schauen Sie nicht so sehr auf die Noten, sondern versuchen Sie, die Sachverhalte zu verstehen und entwickeln Sie sich persönlich, menschlich, methodisch und organisatorisch weiter
-* Lernen Sie keine Technologien, sondern Konzepte
-* Finden Sie Ihr eigenes Tempo, indem Sie Sie auf Ihre eigene Fähigkeiten achten und nicht auf die Fähigkeiten Anderen
-* In der IT-Branche ist ein lebenslanges Lernen erforderlich
-* Studieren bedeutet: Lernen zu lernen.
+**Praktik 3: Manage Flow**
+* Woher kommen die Arbeitsaufträge?
+* Wie wird der Zufuss an Arbeit ins System gesteuert?
+* Wie werden Releases/Lieferungen geplant?
+* Wie wird mit Arbeit aus unterschiedlichen Serviceklassen umgegangen?
+* Gibt es zwischendurch Wartezeiten? Übergaben?
 
 ---
-## Zusammenfassung
+**Praktik 4: Mach Prozessregeln explizit**
+* Wann ist "fertig" wirklich "fertig"?
+* Wann kann ein Ticket von einem Prozesschritt zu einem anderen weiterwandern?
+* Was muss qualitativ in der Arbeit passiert sein?
 
-* Softwareprodukte bestehen aus Programmen, Dokumentation und weiteren Artefakten
-* Software Engineering ist eine Ingenieur-Disziplin, die sich mit allen Aspekten der Softwareentwicklung und Softwarewartung beschäftigt
-* Ziel des Software Engineerings ist die Erreichung einer hohen Softwarequalität und die Minimierung der Kosten
-* Software Engineering geht über die reine Programmierung hinaus und befasst sich mit Konzepten, Methoden und Werkzeugen für die professionelle Entwicklung von wartbarer Software
-* Software Ingenieure arbeiten in Teams in Software Projekten methodisch und strukturiert und kommunizieren mit Kunden und Teammitgliedern
+**Praktik 5: Implementiere (häufige) Feedbackmechanismen**
+* Welche Feedbackmöglichkeiten und Meetings gibt es?
+* Wie oft sollen sie stattfinden?
+* Mit welchen Teilnehmern und welchem Ziel?
+
+**Praktik 6: Führe gemeinschaftlich Verbesserungen durch**
+
+### Kanban Flight Level
+* Flight Level 1: Operative Ebene mit einem Projekt oder Team
+* Flight Level 2: Koordinierung der Zusammenarbeit mehrerer Teams
+* Flight Level 3: Strategisches Portfoliomanagement
+
