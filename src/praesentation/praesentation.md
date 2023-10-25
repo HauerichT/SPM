@@ -13,10 +13,19 @@ Max Mustermann
 ***
 
 * Begriffsklärungen Projektmanagement
-* Themengruppen Projektmanagement
+  * Methode
+  * Projekt
+  * Projektmanagement
+  * "klassisches" Projektmanagement
+  * "agiles" Projektmanagement
+  * Projektmanager/Projektleiter
+* Themengruppen Projektmanagement nach ISO 21500
 * Projektlebenszyklus
 * Klassisches (Plangetriebenes) Projektmanagement
 * Agiles Projektmanagement
+  * Begriffe
+  * Scrum
+  * Kanban
 
 ---
 ### Begriffsklärungen
@@ -33,27 +42,13 @@ Max Mustermann
 * umfasst Führungsaufgaben, -organisation, -techniken, -mittel zur erfolgreichen Abwicklung eines Projektes
 
 ---
+
 ### Begriffsklärungen
 ***
 
-**"Klassisches" Projektmanagement:**
-* monolithischer Ansatz
-* ist plangetrieben
-* Scope führend: 
-  1. Inhalt und Umfang werden definiert
-  2. Zeit und Finanzbedarf werden ermittelt
-
-**"Agiles" Projektmanagement:**
-* iterativ-inkrementeller Ansatz
-* "value", also Mehrwert/Nutzen, steht im Vordergrund
-* "value" führend:
-  1. Zeit und Budget werden festgelegt
-  2. Inhalt und Umfang werden ermittelt
-* Scrum und Kanban wichtige Vertreter
-
----
-### Begriffsklärungen
-***
+**Methode:**
+* Beschreibung eines planmäßigen Vorgehens um Ziele zu erreichen
+* Art des Handelns
 
 **Projektmanager/Projektleiter:**
 * mit der Führung des Teams betraute Person
@@ -64,11 +59,20 @@ Max Mustermann
   * Wissen und Fähigkeiten
 
 ---
+### Begriffsklärungen
+***
+
+**"Klassisches" und "Agiles" Projektmanagement:**
+
+
+![:scale 100%](media/klassisch_agil.png)
+
+---
 
 ### Themengruppen Projektmanagement
 ***
 
-**Themengruppen:** Themenbereiche, die spezifisches Wissen erfordern und durch Prozesse, Ergebnisse sowie verwendete Werkzeuge und Methoden charakterisiert werden
+**Themengruppen:** Themenbereiche, die spezifisches Wissen erfordern und durch Prozesse, Ergebnisse sowie verwendete Werkzeuge und Methoden charakterisiert werden.
 
 **Themengruppen des Projektmanagements nach ISO 21500:**
 * **Integration:** Vorgehensweise zur ganzheitlichen Projektintegration.
@@ -98,17 +102,13 @@ Der Projektlebenszyklus ist die __Abfolge der Phasen__, die ein Projekt vom __Au
     * Test
     * Lieferung
 
-
-* __Iteration:__ die in Schleifen erfolgende Ausarbeitung eines Ergebnisses 
-* __Inkrement:__ ein Ergebnis, das immer weiter ergänzt wird
-
 ---
 
 ### Projektlebenszyklus
 ***
 
 **Phasenmodelle:**
-* Project Management Institute beschreibt vier verschiedene Phasenmodelle:
+* Project Management Institute beschreibt __vier verschiedene Phasenmodelle__:
     * Predictive life cylce ("klassischer" Ansatz)
     * Iterativer Lebenszyklus
     * Inkrementeller Lebenszyklus
@@ -119,34 +119,12 @@ Der Projektlebenszyklus ist die __Abfolge der Phasen__, die ein Projekt vom __Au
 ### Projektlebenszyklus
 ***
 
+* __Iteration:__ die in Schleifen erfolgende Ausarbeitung eines Ergebnisses 
+* __Inkrement:__ ein Ergebnis, das immer weiter ergänzt wird
+
 **Vorgehensweisen:**
-* __Plangetriebenes Vorgehen:__ größere Iterationen, mit einer Lieferung ganz am Ende
-* __Agiles Vorgehen:__ kleine Iterationen, mit jeweils kleineren Ergebnissen
 
-![:scale 70%](media/Agiles_Projektmanagement_im_Berufsalltag_Lebenszyklus.png)
-
----
-
-### Projektlebenszyklus
-***
-
-**Anwendung der Lebenszyklen:**
-
-* **Plangetriebenes Vorgehen:**
-  * Ergebnis genau spezifiziert
-  * Erfahrung mit ähnlichen Projekten
-  * wenige Änderungen
-  * Feedback weniger relevant
-  * weniger komplexe Sachverhalte
-  * ohne Zwischenlieferungen
-
-* **Agiles Vorgehen:**
-  * Anforderungen nicht klar
-  * keine Erfahrung mit ähnlichen Projekten
-  * komplexe Sachverhalte
-  * Feedback und Lernen zentral
-  * Änderungen basierend auf dem Feedback
-  * Zwischenlieferungen
+![:scale 85%](media/Agiles_Projektmanagement_im_Berufsalltag_Lebenszyklus.png)
 
 ---
 
@@ -163,16 +141,16 @@ Der Projektlebenszyklus ist die __Abfolge der Phasen__, die ein Projekt vom __Au
 ***
 
 **Schritte der klassichen Planung eines Projektes:**
-* Projektteam zusammenstellen
-* Scope definieren
+1. Projektteam zusammenstellen
+2. Scope definieren
   * Inhalt, Umfang
-* benötigte Ressourcen schätzen
+3. benötigte Ressourcen schätzen
   * Time, Cost 
-* Planung in weiteren Themengruppen
-* Projektmanagementplan
-* Projektplan
+4. Planung in weiteren Themengruppen
+5. Projektmanagementplan
+6. Projektplan
   * Baselines
-* Change Requests
+7. Change Requests
   * spätere Änderungen der Planung
 
 ---
@@ -180,13 +158,12 @@ Der Projektlebenszyklus ist die __Abfolge der Phasen__, die ein Projekt vom __Au
 ### Agiles Projektmanagement
 ***
 
-**Begriffe:**
-* Inkrement: Ergebnis, das immer weiter ergänzt wird.
-* Product Backlog: Liste der anstehenden Arbeiten
-* Review: Kritische Besprechung mit Festlegung der nächsten Aufgaben
-* Retrospektive: wichtiges Meeting, bei dem Zusammenarbeit im Team, seine Prozesse usw. diskutiert werden
-* Stakeholder: tatsächlich Betroffene von oder Beteiligte an Projekten
-* Task Board/Kanban Board: Whiteboard oder Pinnwand mit vertikalen Spalten, auf der Arbeit und Fortschritt dargestellt wird
+__Agiles Projektmanagement:__ 
+* ermöglicht flexibles Arbeiten 
+* hohe Team-Beteiligung 
+* akzeptiert variable Qualitätsstandards, Zeit- und Kostenrahmen
+* Scrum und Kanban wichtige Vertreter
+
 
 ---
 
@@ -194,13 +171,9 @@ Der Projektlebenszyklus ist die __Abfolge der Phasen__, die ein Projekt vom __Au
 ***
 
 **Scrum:**
-* empirisches Vorgehensmodell mit:
-  * 3 Prinzipien der empirischen Prozesskontrolle
-  * 3 Rollen, 3 Artefakten (Ergebnisse) und 5 Events (Ereignisse, Meetings)
-* Entwicklung komplexer Produkte in komplexen Umfeld
+* agiles Vorgehensmodell im Projektmanagement
 
-
-![:scale 70%](media/Scrum.png)
+![:scale 85%](media/Scrum.png)
 
 ---
 
@@ -208,14 +181,8 @@ Der Projektlebenszyklus ist die __Abfolge der Phasen__, die ein Projekt vom __Au
 ***
 
 **Sprint:**
-* Bezeichnung einer Iteration
-* zeitlich begrenztes Event von max. vier Wochen dauer
-* Erarbeitung eines Inkrements (durch Dev-Team)
-* Container für andere Events
-* Sprint folgt direkt auf Sprint
 
-
-![:scale 70%](media/Scrum2.png)
+![:scale 100%](media/Scrum2.png)
 
 ---
 
@@ -223,13 +190,8 @@ Der Projektlebenszyklus ist die __Abfolge der Phasen__, die ein Projekt vom __Au
 ***
 
 **Scrum-Artefakte und Events:**
-* **Sprint Backlog:** Auswahl aus Product Backlog Items + Umsetzungsplan
-* **Sprint Planning:** Erstes Meeting, um Sprint-Inhalt zu planen
-* **Daily Scrum:** Tägliches 15-minütiges Team-Synchronisationsmeeting
-* **Sprint Review:** Kritische Besprechung mit Scrum Team und Stakeholdern
 
-
-![:scale 70%](media/Scrum3.png)
+![:scale 100%](media/Scrum3.png)
 
 ---
 
@@ -241,23 +203,3 @@ Der Projektlebenszyklus ist die __Abfolge der Phasen__, die ein Projekt vom __Au
 * **Scrum Master:** kümmert sich um Hindernisse und Probleme sowie das Management des Prozesses
 * **Development Team:** organisiert sich eigenständig und erstellt die Produktinkremente
 * **Scrum Team:** besteht aus Product Owner, Scrum Master und Development Team
-
----
-
-### Agiles Projektmanagement - Kanban
-***
-
-**Begriffe:**
-* **Kanban:** Signalkarte zur Steuerung des Materialflusses im Produktionssystem
-* **Kanban Board:** Visuelle Organisation von Karten im Kanban-System, mit vertikalen Spalten für Arbeitsschritte von links nach rechts
-* **Kanban System:** Begrenzt die Menge der Arbeit auf dem Kanban Board
-* **Tickets:** Haftzettel oder Karten auf dem Kanban-Board, repräsentieren Arbeitseinheiten
-* **WIP-Limit:** Maximal zulässige Anzahl von Tickets in einer Spalte
-
----
-
-### Agiles Projektmanagement - Kanban
-***
-
-**Beispiel Kanban Board:**
-![:scale 100%](media/KanbanBoard.png)
