@@ -18,24 +18,18 @@ Sie bilden eine Hierarchie, in welcher die Basis die großen Themes sind und die
 ---
 #### [Themes, Epics, Features, User Stories, Tasks – To-dos in unterschiedlicher Granularität](../../praesentationen.html)
 ***
-### Welche To-dos gibt es?
-
-* Theme: ist ein Thema oder eine Idee und damit die gröbste Form einer Anforderung, die Basis. 
-* Epic: Teil eines Themas.
-* Feature: Nächstkleineres aber immer noch grobes To-do. (Wird in dem Buch als Epic verwendet) 
-* User Story: kleineres To-do, können auf der Ebene der Epics oder Features stehen. 
-* Task: Ein Arbeitsschritt oder eine Aufgabe. 
+### Die Hierarchie der Anforderungen
+![:scale 50%](Media\Hierarchie.png)
 
 ### Wie kann man To-dos abarbeiten?
-* 1.Gröbsten Anforderungen angucken
-* 2.herunterbechen
-* 3.Anforderungen klein genug, um sie in begrenzter Zeit umsetzen zu können (User Stories)
-* 4.evtl. weiter herunterbrechen
+* 1. Gröbsten Anforderungen angucken
+* 2. herunterbechen
+* 3. Anforderungen klein genug, um sie in begrenzter Zeit umsetzen zu können (User Stories)
+* 4. evtl. weiter herunterbrechen
 ---
 #### [Themes, Epics, Features, User Stories, Tasks – To-dos in unterschiedlicher Granularität](../../praesentationen.html)
 ***
-### Die Hierarchie der Anforderungen
-![:scale 50%](Media\Hierarchie.png)
+
 
 
 ### Warum gibt es so eine Hierarchie?
@@ -55,7 +49,7 @@ will ich (Funktionalität),
 damit (Business-Begründung).
 
 ### Vorteile der User Storie
- * stellt beziehung zum Nuter da
+ * stellt Beziehung zum Nutzer da
  * stellt Kontext da
 
 
@@ -83,6 +77,8 @@ Akzeptanzkriterium: Beim Check-out und auf der Rechnung wird die korrekte niedri
   * Nicht alles schriftlich vorgeben
   * Product Owner beschreibt grob inhaltlich was er haben möchte
   * Umsetzung im Team diskutieren
+* **Valuable**
+  * User Stories sollen einen konkreten Mehrwert bieten 
 * **Estimatable**
   * User Storie soll überschaubar sein
   * nicht überschaubar genug => herunterbrechen
@@ -129,8 +125,8 @@ Risiken sind Unwägbarkeiten, die im Falle des Eintretens den Projektverlauf ode
 ### Planen eines Risikomanagementworkshops
 ![:scale 60%](Media\Risikomanagement.png)
 Es gibt Zwei Möglichkeiten um die Fragen aus dem Schaubild abzuarbeiten.
-* 1. Segelschiffworkshop
-* 2. Seminarprojekt
+* 1. Seminarprojekt
+* 2. Segelschiffworkshop
 
 ---
 #### [Risiken und Nebenwirkungen](../../praesentationen.html) 
