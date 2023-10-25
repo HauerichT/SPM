@@ -28,10 +28,11 @@ Protokollant: Tobias Wegner
 Meetings Ende: 10:15 Uhr
 
 
-### Protokoll zum Meeting vom 23.10.2023
+# Protokoll zum Meeting vom 23.10.2023
+Protokollant: Kevin Zuber
 
 * Teilnehmer: Tobias, Lewin, Tim, Timo, Ole, Kevin
-* Protokollant: Kevin
+  
 
 **Agenda:** Präsentationsfolien von jedem Teammitglied durchgehen
 
